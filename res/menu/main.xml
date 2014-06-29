@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/expand_currencies_button"
+          android:showAsAction="always"
+          android:title="&#xf155;"
+          android:titleCondensed="@string/refresh"
+          android:visible="true"
+            />
+    <item android:id="@+id/refresh"
+          android:icon="@drawable/ic_menu_refresh"
+          android:showAsAction="always"
+          android:title="@string/refresh_server_list_label"
+          android:titleCondensed="@string/refresh"
+          android:visible="true"
+            />
+    <item android:id="@+id/addServer"
+          android:icon="@android:drawable/ic_input_add"
+          android:showAsAction="always"
+          android:title="@string/new_server_label"
+          android:titleCondensed="@string/new_server"
+          android:visible="true"
+            />
+</menu>

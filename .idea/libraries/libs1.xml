@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock-samples/roboguice/libs/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock-samples/roboguice/libs/roboguice-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock-samples/roboguice/libs/roboguice-sherlock-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock-samples/roboguice/libs/guice-3.0-no_aop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

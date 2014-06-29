@@ -1,0 +1,2166 @@
+android.annotation.SuppressLint
+android.annotation.TargetApi
+com.atermenji.android.iconicdroid.BuildConfig
+com.atermenji.android.iconicdroid.IconicFontDrawable:
+    private int mContourWidth
+    65:67:public IconicFontDrawable(android.content.Context,com.atermenji.android.iconicdroid.icon.Icon)
+    95:101:public void setIconPadding(int)
+    111:114:public void setContour(int,int)
+    123:125:public void setContourColor(int)
+    134:137:public void setContourWidth(int)
+    145:154:public void drawContour(boolean)
+    162:163:public void setIntrinsicWidth(int)
+    171:172:public void setIntrinsicHeight(int)
+com.atermenji.android.iconicdroid.R:
+    9:10:public R()
+com.atermenji.android.iconicdroid.R$raw:
+    10:10:public R$raw()
+com.atermenji.android.iconicdroid.icon.EntypoIcon
+com.atermenji.android.iconicdroid.icon.EntypoSocialIcon
+com.atermenji.android.iconicdroid.icon.IconicIcon
+com.atermenji.android.iconicdroid.util.TypefaceManager:
+    private static final java.lang.String TAG
+    39:40:private TypefaceManager()
+com.dm.zbar.android.scanner.BuildConfig
+com.dm.zbar.android.scanner.R
+com.dm.zbar.android.scanner.R$drawable
+com.dm.zbar.android.scanner.R$string
+com.dm.zbar.android.scanner.ZBarConstants
+com.dm.zbar.android.scanner.ZBarScannerActivity:
+    private static final java.lang.String TAG
+com.github.rtyley.android.sherlock.roboguice.activity.RoboSherlockActivity:
+    roboguice.inject.ContentViewListener ignored
+com.github.rtyley.android.sherlock.roboguice.activity.RoboSherlockFragmentActivity:
+    roboguice.inject.ContentViewListener ignored
+com.github.rtyley.android.sherlock.roboguice.fragment.RoboSherlockListFragment
+com.google.gson.DefaultDateTypeAdapter
+com.google.gson.ExclusionStrategy
+com.google.gson.FieldAttributes
+com.google.gson.FieldNamingPolicy
+com.google.gson.FieldNamingPolicy$1
+com.google.gson.FieldNamingPolicy$2
+com.google.gson.FieldNamingPolicy$3
+com.google.gson.FieldNamingPolicy$4
+com.google.gson.FieldNamingPolicy$5
+com.google.gson.FieldNamingStrategy
+com.google.gson.Gson
+com.google.gson.Gson$1
+com.google.gson.Gson$2
+com.google.gson.Gson$3
+com.google.gson.Gson$4
+com.google.gson.Gson$5
+com.google.gson.Gson$FutureTypeAdapter
+com.google.gson.GsonBuilder
+com.google.gson.InstanceCreator
+com.google.gson.JsonArray
+com.google.gson.JsonDeserializationContext
+com.google.gson.JsonDeserializer
+com.google.gson.JsonElement
+com.google.gson.JsonIOException
+com.google.gson.JsonNull
+com.google.gson.JsonObject
+com.google.gson.JsonParseException
+com.google.gson.JsonParser
+com.google.gson.JsonPrimitive
+com.google.gson.JsonSerializationContext
+com.google.gson.JsonSerializer
+com.google.gson.JsonStreamParser
+com.google.gson.JsonSyntaxException
+com.google.gson.LongSerializationPolicy
+com.google.gson.LongSerializationPolicy$1
+com.google.gson.LongSerializationPolicy$2
+com.google.gson.TreeTypeAdapter
+com.google.gson.TreeTypeAdapter$1
+com.google.gson.TreeTypeAdapter$SingleTypeFactory
+com.google.gson.TypeAdapter
+com.google.gson.TypeAdapter$1
+com.google.gson.TypeAdapterFactory
+com.google.gson.annotations.Expose
+com.google.gson.annotations.SerializedName
+com.google.gson.annotations.Since
+com.google.gson.annotations.Until
+com.google.gson.internal.$Gson$Preconditions
+com.google.gson.internal.$Gson$Types
+com.google.gson.internal.$Gson$Types$GenericArrayTypeImpl
+com.google.gson.internal.$Gson$Types$ParameterizedTypeImpl
+com.google.gson.internal.$Gson$Types$WildcardTypeImpl
+com.google.gson.internal.ConstructorConstructor
+com.google.gson.internal.ConstructorConstructor$1
+com.google.gson.internal.ConstructorConstructor$10
+com.google.gson.internal.ConstructorConstructor$11
+com.google.gson.internal.ConstructorConstructor$12
+com.google.gson.internal.ConstructorConstructor$2
+com.google.gson.internal.ConstructorConstructor$3
+com.google.gson.internal.ConstructorConstructor$4
+com.google.gson.internal.ConstructorConstructor$5
+com.google.gson.internal.ConstructorConstructor$6
+com.google.gson.internal.ConstructorConstructor$7
+com.google.gson.internal.ConstructorConstructor$8
+com.google.gson.internal.ConstructorConstructor$9
+com.google.gson.internal.Excluder
+com.google.gson.internal.Excluder$1
+com.google.gson.internal.JsonReaderInternalAccess
+com.google.gson.internal.LazilyParsedNumber
+com.google.gson.internal.LinkedTreeMap
+com.google.gson.internal.LinkedTreeMap$1
+com.google.gson.internal.LinkedTreeMap$EntrySet
+com.google.gson.internal.LinkedTreeMap$EntrySet$1
+com.google.gson.internal.LinkedTreeMap$KeySet
+com.google.gson.internal.LinkedTreeMap$KeySet$1
+com.google.gson.internal.LinkedTreeMap$LinkedTreeMapIterator
+com.google.gson.internal.LinkedTreeMap$Node
+com.google.gson.internal.ObjectConstructor
+com.google.gson.internal.Primitives
+com.google.gson.internal.Streams
+com.google.gson.internal.Streams$1
+com.google.gson.internal.Streams$AppendableWriter
+com.google.gson.internal.Streams$AppendableWriter$CurrentWrite
+com.google.gson.internal.UnsafeAllocator
+com.google.gson.internal.UnsafeAllocator$1
+com.google.gson.internal.UnsafeAllocator$2
+com.google.gson.internal.UnsafeAllocator$3
+com.google.gson.internal.UnsafeAllocator$4
+com.google.gson.internal.bind.ArrayTypeAdapter
+com.google.gson.internal.bind.ArrayTypeAdapter$1
+com.google.gson.internal.bind.CollectionTypeAdapterFactory
+com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter
+com.google.gson.internal.bind.DateTypeAdapter
+com.google.gson.internal.bind.DateTypeAdapter$1
+com.google.gson.internal.bind.JsonTreeReader
+com.google.gson.internal.bind.JsonTreeReader$1
+com.google.gson.internal.bind.JsonTreeWriter
+com.google.gson.internal.bind.JsonTreeWriter$1
+com.google.gson.internal.bind.MapTypeAdapterFactory
+com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter
+com.google.gson.internal.bind.ObjectTypeAdapter
+com.google.gson.internal.bind.ObjectTypeAdapter$1
+com.google.gson.internal.bind.ObjectTypeAdapter$2
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$BoundField
+com.google.gson.internal.bind.SqlDateTypeAdapter
+com.google.gson.internal.bind.SqlDateTypeAdapter$1
+com.google.gson.internal.bind.TimeTypeAdapter
+com.google.gson.internal.bind.TimeTypeAdapter$1
+com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper
+com.google.gson.internal.bind.TypeAdapters
+com.google.gson.internal.bind.TypeAdapters$1
+com.google.gson.internal.bind.TypeAdapters$10
+com.google.gson.internal.bind.TypeAdapters$11
+com.google.gson.internal.bind.TypeAdapters$12
+com.google.gson.internal.bind.TypeAdapters$13
+com.google.gson.internal.bind.TypeAdapters$14
+com.google.gson.internal.bind.TypeAdapters$15
+com.google.gson.internal.bind.TypeAdapters$16
+com.google.gson.internal.bind.TypeAdapters$17
+com.google.gson.internal.bind.TypeAdapters$18
+com.google.gson.internal.bind.TypeAdapters$19
+com.google.gson.internal.bind.TypeAdapters$2
+com.google.gson.internal.bind.TypeAdapters$20
+com.google.gson.internal.bind.TypeAdapters$21
+com.google.gson.internal.bind.TypeAdapters$22
+com.google.gson.internal.bind.TypeAdapters$22$1
+com.google.gson.internal.bind.TypeAdapters$23
+com.google.gson.internal.bind.TypeAdapters$24
+com.google.gson.internal.bind.TypeAdapters$25
+com.google.gson.internal.bind.TypeAdapters$26
+com.google.gson.internal.bind.TypeAdapters$27
+com.google.gson.internal.bind.TypeAdapters$28
+com.google.gson.internal.bind.TypeAdapters$29
+com.google.gson.internal.bind.TypeAdapters$3
+com.google.gson.internal.bind.TypeAdapters$30
+com.google.gson.internal.bind.TypeAdapters$31
+com.google.gson.internal.bind.TypeAdapters$32
+com.google.gson.internal.bind.TypeAdapters$4
+com.google.gson.internal.bind.TypeAdapters$5
+com.google.gson.internal.bind.TypeAdapters$6
+com.google.gson.internal.bind.TypeAdapters$7
+com.google.gson.internal.bind.TypeAdapters$8
+com.google.gson.internal.bind.TypeAdapters$9
+com.google.gson.internal.bind.TypeAdapters$EnumTypeAdapter
+com.google.gson.reflect.TypeToken
+com.google.gson.stream.JsonReader
+com.google.gson.stream.JsonReader$1
+com.google.gson.stream.JsonScope
+com.google.gson.stream.JsonToken
+com.google.gson.stream.JsonWriter
+com.google.gson.stream.MalformedJsonException
+com.google.inject.AbstractModule:
+    75:75:protected com.google.inject.Binder binder()
+    90:90:protected com.google.inject.binder.LinkedBindingBuilder bind(com.google.inject.Key)
+    97:97:protected com.google.inject.binder.AnnotatedBindingBuilder bind(com.google.inject.TypeLiteral)
+    118:119:protected void install(com.google.inject.Module)
+    125:126:protected varargs void addError(java.lang.String,java.lang.Object[])
+    132:133:protected void addError(java.lang.Throwable)
+    140:141:protected void addError(com.google.inject.spi.Message)
+    180:181:protected void requireBinding(com.google.inject.Key)
+    192:193:protected void requireBinding(java.lang.Class)
+    200:200:protected com.google.inject.Provider getProvider(com.google.inject.Key)
+    217:218:protected void convertToTypes(com.google.inject.matcher.Matcher,com.google.inject.spi.TypeConverter)
+    225:225:protected com.google.inject.Stage currentStage()
+    233:233:protected com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+    241:241:protected com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+com.google.inject.Binder:
+    public abstract com.google.inject.binder.AnnotatedBindingBuilder bind(com.google.inject.TypeLiteral)
+    public abstract void requestInjection(com.google.inject.TypeLiteral,java.lang.Object)
+    public abstract com.google.inject.Stage currentStage()
+    public abstract void addError(java.lang.Throwable)
+    public abstract com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    public abstract com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+    public abstract void convertToTypes(com.google.inject.matcher.Matcher,com.google.inject.spi.TypeConverter)
+    public varargs abstract com.google.inject.Binder skipSources(java.lang.Class[])
+    public abstract void requireExplicitBindings()
+    public abstract void disableCircularProxies()
+com.google.inject.Binding:
+    public abstract java.lang.Object acceptScopingVisitor(com.google.inject.spi.BindingScopingVisitor)
+com.google.inject.ConfigurationException:
+    private static final long serialVersionUID
+com.google.inject.CreationException:
+    private static final long serialVersionUID
+com.google.inject.Guice:
+    62:62:public static varargs com.google.inject.Injector createInjector(com.google.inject.Module[])
+    72:72:public static com.google.inject.Injector createInjector(java.lang.Iterable)
+com.google.inject.Injector:
+    public abstract com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    public abstract com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+    public abstract java.util.Map getAllBindings()
+    public abstract com.google.inject.Binding getBinding(com.google.inject.Key)
+    public abstract com.google.inject.Binding getBinding(java.lang.Class)
+    public abstract com.google.inject.Binding getExistingBinding(com.google.inject.Key)
+    public abstract java.util.List findBindingsByType(com.google.inject.TypeLiteral)
+    public abstract com.google.inject.Provider getProvider(com.google.inject.Key)
+    public abstract com.google.inject.Provider getProvider(java.lang.Class)
+    public abstract com.google.inject.Injector getParent()
+    public abstract com.google.inject.Injector createChildInjector(java.lang.Iterable)
+    public varargs abstract com.google.inject.Injector createChildInjector(com.google.inject.Module[])
+    public abstract java.util.Map getScopeBindings()
+    public abstract java.util.Set getTypeConverterBindings()
+com.google.inject.Key:
+    69:73:protected Key(java.lang.Class)
+    88:93:protected Key(java.lang.annotation.Annotation)
+    156:156:boolean hasAnnotationType()
+    160:166:java.lang.String getAnnotationName()
+    170:170:java.lang.Class getRawType()
+    177:177:com.google.inject.Key providerKey()
+    205:205:static com.google.inject.Key get(java.lang.Class,com.google.inject.Key$AnnotationStrategy)
+    242:242:public static com.google.inject.Key get(java.lang.reflect.Type,java.lang.Class)
+    249:249:public static com.google.inject.Key get(java.lang.reflect.Type,java.lang.annotation.Annotation)
+    264:264:public static com.google.inject.Key get(com.google.inject.TypeLiteral,java.lang.Class)
+    282:282:public com.google.inject.Key ofType(java.lang.Class)
+com.google.inject.OutOfScopeException
+com.google.inject.PrivateBinder:
+    public abstract com.google.inject.binder.AnnotatedElementBuilder expose(java.lang.Class)
+    public abstract com.google.inject.binder.AnnotatedElementBuilder expose(com.google.inject.TypeLiteral)
+    public abstract com.google.inject.PrivateBinder withSource(java.lang.Object)
+    public varargs abstract com.google.inject.PrivateBinder skipSources(java.lang.Class[])
+com.google.inject.PrivateModule:
+    private com.google.inject.PrivateBinder binder
+    92:101:public final synchronized void configure(com.google.inject.Binder)
+    protected abstract void configure()
+    111:112:protected final void expose(com.google.inject.Key)
+    120:120:protected final com.google.inject.binder.AnnotatedElementBuilder expose(java.lang.Class)
+    129:129:protected final com.google.inject.binder.AnnotatedElementBuilder expose(com.google.inject.TypeLiteral)
+    138:138:protected final com.google.inject.PrivateBinder binder()
+    145:146:protected final void bindScope(java.lang.Class,com.google.inject.Scope)
+    152:152:protected final com.google.inject.binder.LinkedBindingBuilder bind(com.google.inject.Key)
+    159:159:protected final com.google.inject.binder.AnnotatedBindingBuilder bind(com.google.inject.TypeLiteral)
+    166:166:protected final com.google.inject.binder.AnnotatedBindingBuilder bind(java.lang.Class)
+    173:173:protected final com.google.inject.binder.AnnotatedConstantBindingBuilder bindConstant()
+    180:181:protected final void install(com.google.inject.Module)
+    187:188:protected final varargs void addError(java.lang.String,java.lang.Object[])
+    194:195:protected final void addError(java.lang.Throwable)
+    201:202:protected final void addError(com.google.inject.spi.Message)
+    208:209:protected final void requestInjection(java.lang.Object)
+    215:216:protected final varargs void requestStaticInjection(java.lang.Class[])
+    233:234:protected final void requireBinding(com.google.inject.Key)
+    240:241:protected final void requireBinding(java.lang.Class)
+    247:247:protected final com.google.inject.Provider getProvider(com.google.inject.Key)
+    254:254:protected final com.google.inject.Provider getProvider(java.lang.Class)
+    262:263:protected final void convertToTypes(com.google.inject.matcher.Matcher,com.google.inject.spi.TypeConverter)
+    269:269:protected final com.google.inject.Stage currentStage()
+    276:276:protected com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+    283:283:protected com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    291:292:protected void bindListener(com.google.inject.matcher.Matcher,com.google.inject.spi.TypeListener)
+com.google.inject.ProvisionException:
+    private static final long serialVersionUID
+    45:47:public ProvisionException(java.lang.String,java.lang.Throwable)
+com.google.inject.Scope:
+    public abstract java.lang.String toString()
+com.google.inject.Scopes:
+    34:34:private Scopes()
+    132:171:public static boolean isSingleton(com.google.inject.Binding)
+com.google.inject.Scopes$3
+com.google.inject.TypeLiteral:
+    135:135:final com.google.inject.TypeLiteral providerType()
+    309:325:public java.util.List getExceptionTypes(java.lang.reflect.Member)
+com.google.inject.binder.AnnotatedBindingBuilder:
+    public abstract com.google.inject.binder.LinkedBindingBuilder annotatedWith(java.lang.Class)
+    public abstract com.google.inject.binder.LinkedBindingBuilder annotatedWith(java.lang.annotation.Annotation)
+com.google.inject.binder.AnnotatedConstantBindingBuilder:
+    public abstract com.google.inject.binder.ConstantBindingBuilder annotatedWith(java.lang.Class)
+com.google.inject.binder.AnnotatedElementBuilder:
+    public abstract void annotatedWith(java.lang.Class)
+    public abstract void annotatedWith(java.lang.annotation.Annotation)
+com.google.inject.binder.ConstantBindingBuilder:
+    public abstract void to(int)
+    public abstract void to(long)
+    public abstract void to(boolean)
+    public abstract void to(double)
+    public abstract void to(float)
+    public abstract void to(short)
+    public abstract void to(char)
+    public abstract void to(byte)
+    public abstract void to(java.lang.Class)
+    public abstract void to(java.lang.Enum)
+com.google.inject.binder.LinkedBindingBuilder:
+    public abstract com.google.inject.binder.ScopedBindingBuilder to(java.lang.Class)
+    public abstract com.google.inject.binder.ScopedBindingBuilder to(com.google.inject.TypeLiteral)
+    public abstract com.google.inject.binder.ScopedBindingBuilder to(com.google.inject.Key)
+    public abstract com.google.inject.binder.ScopedBindingBuilder toProvider(com.google.inject.TypeLiteral)
+    public abstract com.google.inject.binder.ScopedBindingBuilder toConstructor(java.lang.reflect.Constructor)
+    public abstract com.google.inject.binder.ScopedBindingBuilder toConstructor(java.lang.reflect.Constructor,com.google.inject.TypeLiteral)
+com.google.inject.binder.ScopedBindingBuilder:
+    public abstract void in(com.google.inject.Scope)
+    public abstract void asEagerSingleton()
+com.google.inject.internal.AbstractBindingBuilder:
+    public static final java.lang.String IMPLEMENTATION_ALREADY_SET
+    public static final java.lang.String SINGLE_INSTANCE_AND_SCOPE
+    public static final java.lang.String SCOPE_ALREADY_SET
+    public static final java.lang.String BINDING_TO_NULL
+    public static final java.lang.String CONSTANT_VALUE_ALREADY_SET
+    public static final java.lang.String ANNOTATION_ALREADY_SPECIFIED
+    72:74:protected com.google.inject.internal.BindingImpl annotatedWithInternal(java.lang.Class)
+    93:96:public void in(com.google.inject.Scope)
+    99:101:public void asEagerSingleton()
+com.google.inject.internal.Annotations:
+    42:86:public Annotations()
+com.google.inject.internal.BindingBuilder:
+    49:50:public com.google.inject.internal.BindingBuilder annotatedWith(java.lang.Class)
+    54:55:public com.google.inject.internal.BindingBuilder annotatedWith(java.lang.annotation.Annotation)
+    59:59:public com.google.inject.internal.BindingBuilder to(java.lang.Class)
+    63:63:public com.google.inject.internal.BindingBuilder to(com.google.inject.TypeLiteral)
+    67:72:public com.google.inject.internal.BindingBuilder to(com.google.inject.Key)
+    123:123:public com.google.inject.internal.BindingBuilder toProvider(com.google.inject.TypeLiteral)
+    138:138:public com.google.inject.binder.ScopedBindingBuilder toConstructor(java.lang.reflect.Constructor)
+    143:166:public com.google.inject.binder.ScopedBindingBuilder toConstructor(java.lang.reflect.Constructor,com.google.inject.TypeLiteral)
+    41:41:public bridge synthetic com.google.inject.binder.LinkedBindingBuilder annotatedWith(java.lang.annotation.Annotation)
+    41:41:public bridge synthetic com.google.inject.binder.LinkedBindingBuilder annotatedWith(java.lang.Class)
+    41:41:public bridge synthetic com.google.inject.binder.ScopedBindingBuilder toProvider(com.google.inject.TypeLiteral)
+    41:41:public bridge synthetic com.google.inject.binder.ScopedBindingBuilder to(com.google.inject.Key)
+    41:41:public bridge synthetic com.google.inject.binder.ScopedBindingBuilder to(com.google.inject.TypeLiteral)
+    41:41:public bridge synthetic com.google.inject.binder.ScopedBindingBuilder to(java.lang.Class)
+com.google.inject.internal.BindingImpl:
+    97:97:public java.lang.Object acceptScopingVisitor(com.google.inject.spi.BindingScopingVisitor)
+com.google.inject.internal.BytecodeGen:
+    private static final java.lang.String CGLIB_PACKAGE
+com.google.inject.internal.BytecodeGen$SystemBridgeHolder:
+    69:69:private BytecodeGen$SystemBridgeHolder()
+com.google.inject.internal.BytecodeGen$Visibility:
+    257:278:public static com.google.inject.internal.BytecodeGen$Visibility forMember(java.lang.reflect.Member)
+    public abstract com.google.inject.internal.BytecodeGen$Visibility and(com.google.inject.internal.BytecodeGen$Visibility)
+com.google.inject.internal.BytecodeGen$Visibility$1:
+    239:239:public com.google.inject.internal.BytecodeGen$Visibility and(com.google.inject.internal.BytecodeGen$Visibility)
+com.google.inject.internal.BytecodeGen$Visibility$2:
+    252:252:public com.google.inject.internal.BytecodeGen$Visibility and(com.google.inject.internal.BytecodeGen$Visibility)
+com.google.inject.internal.ConstantBindingBuilderImpl:
+    44:45:public com.google.inject.binder.ConstantBindingBuilder annotatedWith(java.lang.Class)
+    58:59:public void to(int)
+    62:63:public void to(long)
+    66:67:public void to(boolean)
+    70:71:public void to(double)
+    74:75:public void to(float)
+    78:79:public void to(short)
+    82:83:public void to(char)
+    86:87:public void to(byte)
+    90:91:public void to(java.lang.Class)
+    94:95:public void to(java.lang.Enum)
+com.google.inject.internal.ConstructionProxy:
+    public abstract java.lang.reflect.Constructor getConstructor()
+com.google.inject.internal.ConstructorBindingImpl:
+    56:63:public ConstructorBindingImpl(com.google.inject.Key,java.lang.Object,com.google.inject.internal.Scoping,com.google.inject.spi.InjectionPoint,java.util.Set)
+    202:205:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.DefaultConstructionProxyFactory$1:
+    96:96:public java.lang.reflect.Constructor getConstructor()
+com.google.inject.internal.DeferredLookups:
+    58:60:public com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+com.google.inject.internal.DelegatingInvocationHandler:
+    48:48:public java.lang.Object getDelegate()
+com.google.inject.internal.EncounterImpl:
+    110:112:public varargs void addError(java.lang.String,java.lang.Object[])
+    115:117:public void addError(java.lang.Throwable)
+    120:122:public void addError(com.google.inject.spi.Message)
+    134:135:public com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    139:139:public com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+com.google.inject.internal.ErrorHandler
+com.google.inject.internal.Errors:
+    private static final java.lang.String CONSTRUCTOR_RULES
+    241:241:public com.google.inject.internal.Errors constructorNotDefinedByType(java.lang.reflect.Constructor,com.google.inject.TypeLiteral)
+    278:278:public com.google.inject.internal.Errors cannotInjectNonVoidMethod(java.lang.reflect.Method)
+    369:369:public com.google.inject.internal.Errors errorEnhancingClass(java.lang.Class,java.lang.Throwable)
+com.google.inject.internal.Exceptions:
+    27:52:Exceptions()
+com.google.inject.internal.ExposedBindingImpl:
+    61:61:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.ExposureBuilder:
+    40:43:protected void checkNotAnnotated()
+    46:49:public void annotatedWith(java.lang.Class)
+    52:55:public void annotatedWith(java.lang.annotation.Annotation)
+com.google.inject.internal.InheritingState:
+    156:156:public java.util.Map getScopes()
+com.google.inject.internal.Initializables:
+    22:22:Initializables()
+com.google.inject.internal.InjectorImpl:
+    139:139:public java.util.List findBindingsByType(com.google.inject.TypeLiteral)
+    209:209:public com.google.inject.Binding getBinding(java.lang.Class)
+    213:213:public com.google.inject.Injector getParent()
+    217:217:public com.google.inject.Injector createChildInjector(java.lang.Iterable)
+    224:224:public varargs com.google.inject.Injector createChildInjector(com.google.inject.Module[])
+    861:866:public java.util.Map getAllBindings()
+    870:870:public java.util.Map getScopeBindings()
+    874:874:public java.util.Set getTypeConverterBindings()
+    66:66:public bridge synthetic com.google.inject.Binding getExistingBinding(com.google.inject.Key)
+    66:66:public bridge synthetic com.google.inject.Binding getBinding(com.google.inject.Key)
+com.google.inject.internal.InjectorImpl$BindingsMultimap:
+    892:893:java.util.List getAll(com.google.inject.TypeLiteral)
+com.google.inject.internal.InjectorImpl$ConvertedConstantBindingImpl:
+    460:460:public java.lang.Object getValue()
+    464:464:public com.google.inject.spi.TypeConverterBinding getTypeConverterBinding()
+    476:476:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.InjectorImpl$ProviderBindingImpl:
+    349:349:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.InjectorOptionsProcessor:
+    43:44:public java.lang.Boolean visit(com.google.inject.spi.DisableCircularProxiesOption)
+    49:50:public java.lang.Boolean visit(com.google.inject.spi.RequireExplicitBindingsOption)
+    32:32:public bridge synthetic java.lang.Object visit(com.google.inject.spi.RequireExplicitBindingsOption)
+    32:32:public bridge synthetic java.lang.Object visit(com.google.inject.spi.DisableCircularProxiesOption)
+com.google.inject.internal.InstanceBindingImpl:
+    88:89:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.InternalInjectorCreator:
+    86:87:public com.google.inject.internal.InternalInjectorCreator parentInjector(com.google.inject.internal.InjectorImpl)
+com.google.inject.internal.InternalInjectorCreator$ToolStageInjector:
+    252:252:public java.util.Map getAllBindings()
+    255:255:public com.google.inject.Binding getBinding(com.google.inject.Key)
+    258:258:public com.google.inject.Binding getBinding(java.lang.Class)
+    261:261:public com.google.inject.Binding getExistingBinding(com.google.inject.Key)
+    264:264:public java.util.List findBindingsByType(com.google.inject.TypeLiteral)
+    267:267:public com.google.inject.Injector getParent()
+    270:270:public com.google.inject.Injector createChildInjector(java.lang.Iterable)
+    273:273:public varargs com.google.inject.Injector createChildInjector(com.google.inject.Module[])
+    276:276:public java.util.Map getScopeBindings()
+    279:279:public java.util.Set getTypeConverterBindings()
+    282:282:public com.google.inject.Provider getProvider(com.google.inject.Key)
+    286:286:public com.google.inject.Provider getProvider(java.lang.Class)
+    290:290:public com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    294:294:public com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+com.google.inject.internal.LinkedBindingImpl:
+    67:68:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.LinkedProviderBindingImpl:
+    69:71:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.LookupProcessor:
+    38:45:public java.lang.Boolean visit(com.google.inject.spi.MembersInjectorLookup)
+    30:30:public bridge synthetic java.lang.Object visit(com.google.inject.spi.MembersInjectorLookup)
+com.google.inject.internal.Lookups:
+    public abstract com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+com.google.inject.internal.MembersInjectorImpl:
+    54:54:public com.google.inject.internal.util.$ImmutableList getMemberInjectors()
+com.google.inject.internal.MoreTypes:
+    49:49:private MoreTypes()
+com.google.inject.internal.MoreTypes$GenericArrayTypeImpl:
+    private static final long serialVersionUID
+com.google.inject.internal.MoreTypes$ParameterizedTypeImpl:
+    private static final long serialVersionUID
+com.google.inject.internal.MoreTypes$WildcardTypeImpl:
+    private static final long serialVersionUID
+com.google.inject.internal.Nullability:
+    23:23:private Nullability()
+com.google.inject.internal.PrivateElementsImpl:
+    113:123:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.ProviderInstanceBindingImpl:
+    91:93:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.ProviderMethod:
+    67:67:public com.google.inject.Key getKey()
+    71:71:public java.lang.reflect.Method getMethod()
+    76:76:public java.lang.Object getInstance()
+com.google.inject.internal.Scoping:
+    public abstract java.lang.Object acceptVisitor(com.google.inject.spi.BindingScopingVisitor)
+    public abstract void applyTo(com.google.inject.binder.ScopedBindingBuilder)
+com.google.inject.internal.Scoping$1:
+    44:44:public java.lang.Object acceptVisitor(com.google.inject.spi.BindingScopingVisitor)
+    57:57:public void applyTo(com.google.inject.binder.ScopedBindingBuilder)
+com.google.inject.internal.Scoping$2:
+    62:62:public java.lang.Object acceptVisitor(com.google.inject.spi.BindingScopingVisitor)
+    74:75:public void applyTo(com.google.inject.binder.ScopedBindingBuilder)
+com.google.inject.internal.Scoping$3:
+    80:80:public java.lang.Object acceptVisitor(com.google.inject.spi.BindingScopingVisitor)
+    92:93:public void applyTo(com.google.inject.binder.ScopedBindingBuilder)
+com.google.inject.internal.Scoping$4:
+    98:98:public java.lang.Object acceptVisitor(com.google.inject.spi.BindingScopingVisitor)
+    110:111:public void applyTo(com.google.inject.binder.ScopedBindingBuilder)
+com.google.inject.internal.Scoping$5:
+    122:122:public java.lang.Object acceptVisitor(com.google.inject.spi.BindingScopingVisitor)
+    134:135:public void applyTo(com.google.inject.binder.ScopedBindingBuilder)
+com.google.inject.internal.Scoping$6:
+    146:146:public java.lang.Object acceptVisitor(com.google.inject.spi.BindingScopingVisitor)
+    158:159:public void applyTo(com.google.inject.binder.ScopedBindingBuilder)
+com.google.inject.internal.State:
+    public abstract java.util.Map getScopes()
+com.google.inject.internal.State$1:
+    113:113:public java.util.Map getScopes()
+com.google.inject.internal.UniqueAnnotations:
+    29:29:private UniqueAnnotations()
+com.google.inject.internal.UntargettedBindingImpl:
+    54:55:public void applyTo(com.google.inject.Binder)
+com.google.inject.internal.util.$Classes:
+    31:31:public $Classes()
+com.google.inject.internal.util.$Collections2:
+    30:30:private $Collections2()
+com.google.inject.internal.util.$CustomConcurrentHashMap:
+    128:128:private $CustomConcurrentHashMap()
+com.google.inject.internal.util.$CustomConcurrentHashMap$Builder:
+    145:149:public com.google.inject.internal.util.$CustomConcurrentHashMap$Builder loadFactor(float)
+    161:165:public com.google.inject.internal.util.$CustomConcurrentHashMap$Builder initialCapacity(int)
+    185:189:public com.google.inject.internal.util.$CustomConcurrentHashMap$Builder concurrencyLevel(int)
+    204:207:public java.util.concurrent.ConcurrentMap buildMap(com.google.inject.internal.util.$CustomConcurrentHashMap$Strategy)
+com.google.inject.internal.util.$CustomConcurrentHashMap$ComputingImpl:
+    static final long serialVersionUID
+com.google.inject.internal.util.$CustomConcurrentHashMap$Impl:
+    static final int MAXIMUM_CAPACITY
+    static final int MAX_SEGMENTS
+    static final int RETRIES_BEFORE_LOCK
+    private static final long serialVersionUID
+    1879:1888:private void writeObject(java.io.ObjectOutputStream)
+    1918:1970:private void readObject(java.io.ObjectInputStream)
+com.google.inject.internal.util.$CustomConcurrentHashMap$Impl$Fields
+com.google.inject.internal.util.$CustomConcurrentHashMap$Impl$HashIterator:
+    1623:1623:public boolean hasMoreElements()
+com.google.inject.internal.util.$CustomConcurrentHashMap$Impl$InternalsImpl:
+    static final long serialVersionUID
+    637:641:public java.lang.Object getEntry(java.lang.Object)
+com.google.inject.internal.util.$CustomConcurrentHashMap$Internals:
+    public abstract java.lang.Object getEntry(java.lang.Object)
+com.google.inject.internal.util.$CustomConcurrentHashMap$SimpleInternalEntry
+com.google.inject.internal.util.$CustomConcurrentHashMap$SimpleStrategy
+com.google.inject.internal.util.$ExpirationTimer:
+    24:24:$ExpirationTimer()
+com.google.inject.internal.util.$FinalizablePhantomReference
+com.google.inject.internal.util.$FinalizableReferenceQueue:
+    private static final java.lang.String FINALIZER_CLASS_NAME
+com.google.inject.internal.util.$FinalizableReferenceQueue$DecoupledLoader:
+    private static final java.lang.String LOADING_ERROR
+com.google.inject.internal.util.$Finalizer:
+    private static final java.lang.String FINALIZABLE_REFERENCE
+    76:83:public static java.lang.ref.ReferenceQueue startFinalizer(java.lang.Class,java.lang.Object)
+    92:103:private $Finalizer(java.lang.Class,java.lang.Object)
+com.google.inject.internal.util.$Function:
+    public abstract boolean equals(java.lang.Object)
+com.google.inject.internal.util.$Hashing:
+    private static final int MAX_TABLE_SIZE
+    private static final int CUTOFF
+    26:26:private $Hashing()
+com.google.inject.internal.util.$ImmutableCollection:
+    257:257:java.lang.Object writeReplace()
+com.google.inject.internal.util.$ImmutableCollection$ArrayImmutableCollection
+com.google.inject.internal.util.$ImmutableCollection$ArrayImmutableCollection$1
+com.google.inject.internal.util.$ImmutableCollection$SerializedForm
+com.google.inject.internal.util.$ImmutableEntry:
+    private static final long serialVersionUID
+com.google.inject.internal.util.$ImmutableList:
+    88:88:public static com.google.inject.internal.util.$ImmutableList of(java.lang.Object,java.lang.Object)
+    106:106:public static com.google.inject.internal.util.$ImmutableList of(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+    115:115:public static com.google.inject.internal.util.$ImmutableList of(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+    168:168:public static com.google.inject.internal.util.$ImmutableList copyOf(java.util.Iterator)
+    public abstract int indexOf(java.lang.Object)
+    public abstract int lastIndexOf(java.lang.Object)
+    597:597:private void readObject(java.io.ObjectInputStream)
+    601:601:java.lang.Object writeReplace()
+    609:609:public static com.google.inject.internal.util.$ImmutableList$Builder builder()
+com.google.inject.internal.util.$ImmutableList$Builder
+com.google.inject.internal.util.$ImmutableList$SerializedForm
+com.google.inject.internal.util.$ImmutableMap:
+    82:82:public static com.google.inject.internal.util.$ImmutableMap of(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+    92:92:public static com.google.inject.internal.util.$ImmutableMap of(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+    103:103:public static com.google.inject.internal.util.$ImmutableMap of(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+    114:114:public static com.google.inject.internal.util.$ImmutableMap of(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+    125:125:public static com.google.inject.internal.util.$ImmutableMap$Builder builder()
+    public abstract boolean containsKey(java.lang.Object)
+    public abstract boolean containsValue(java.lang.Object)
+    777:777:java.lang.Object writeReplace()
+com.google.inject.internal.util.$ImmutableMap$Builder:
+    179:182:public com.google.inject.internal.util.$ImmutableMap$Builder putAll(java.util.Map)
+com.google.inject.internal.util.$ImmutableMap$SerializedForm
+com.google.inject.internal.util.$ImmutableSet:
+    141:142:public static com.google.inject.internal.util.$ImmutableSet copyOf(java.util.Iterator)
+    541:541:java.lang.Object writeReplace()
+com.google.inject.internal.util.$ImmutableSet$Builder:
+    602:607:public varargs com.google.inject.internal.util.$ImmutableSet$Builder add(java.lang.Object[])
+    640:645:public com.google.inject.internal.util.$ImmutableSet$Builder addAll(java.util.Iterator)
+com.google.inject.internal.util.$ImmutableSet$SerializedForm
+com.google.inject.internal.util.$Iterables:
+    32:32:private $Iterables()
+com.google.inject.internal.util.$Iterators:
+    36:36:private $Iterators()
+    311:312:public static java.util.Enumeration asEnumeration(java.util.Iterator)
+com.google.inject.internal.util.$Iterators$9
+com.google.inject.internal.util.$Join
+com.google.inject.internal.util.$Join$1
+com.google.inject.internal.util.$Join$JoinException
+com.google.inject.internal.util.$Lists:
+    33:33:private $Lists()
+    70:73:public static varargs java.util.ArrayList newArrayList(java.lang.Object[])
+    77:80:static int computeArrayListCapacity(int)
+    120:125:public static java.util.ArrayList newArrayList(java.lang.Object,java.lang.Object[])
+com.google.inject.internal.util.$MapMaker:
+    115:116:public com.google.inject.internal.util.$MapMaker initialCapacity(int)
+    128:129:public com.google.inject.internal.util.$MapMaker loadFactor(float)
+    152:153:public com.google.inject.internal.util.$MapMaker concurrencyLevel(int)
+    175:175:public com.google.inject.internal.util.$MapMaker softKeys()
+    207:207:public com.google.inject.internal.util.$MapMaker softValues()
+    231:240:public com.google.inject.internal.util.$MapMaker expiration(long,java.util.concurrent.TimeUnit)
+    251:251:public java.util.concurrent.ConcurrentMap makeMap()
+com.google.inject.internal.util.$MapMaker$QueueHolder:
+    786:786:private $MapMaker$QueueHolder()
+com.google.inject.internal.util.$MapMaker$StrategyImpl:
+    private static final long serialVersionUID
+    427:433:$MapMaker$StrategyImpl(com.google.inject.internal.util.$MapMaker)
+    657:667:private void writeObject(java.io.ObjectOutputStream)
+    695:703:private void readObject(java.io.ObjectInputStream)
+com.google.inject.internal.util.$MapMaker$StrategyImpl$Fields
+com.google.inject.internal.util.$MapMaker$Strength:
+    abstract com.google.inject.internal.util.$MapMaker$ReferenceEntry copyEntry(java.lang.Object,com.google.inject.internal.util.$MapMaker$ReferenceEntry,com.google.inject.internal.util.$MapMaker$ReferenceEntry)
+com.google.inject.internal.util.$MapMaker$Strength$1:
+    319:320:com.google.inject.internal.util.$MapMaker$ReferenceEntry copyEntry(java.lang.Object,com.google.inject.internal.util.$MapMaker$ReferenceEntry,com.google.inject.internal.util.$MapMaker$ReferenceEntry)
+com.google.inject.internal.util.$MapMaker$Strength$2:
+    348:349:com.google.inject.internal.util.$MapMaker$ReferenceEntry copyEntry(java.lang.Object,com.google.inject.internal.util.$MapMaker$ReferenceEntry,com.google.inject.internal.util.$MapMaker$ReferenceEntry)
+com.google.inject.internal.util.$MapMaker$Strength$3:
+    378:379:com.google.inject.internal.util.$MapMaker$ReferenceEntry copyEntry(java.lang.Object,com.google.inject.internal.util.$MapMaker$ReferenceEntry,com.google.inject.internal.util.$MapMaker$ReferenceEntry)
+com.google.inject.internal.util.$Maps:
+    36:36:private $Maps()
+    67:67:public static java.util.TreeMap newTreeMap()
+com.google.inject.internal.util.$ObjectArrays:
+    27:27:private $ObjectArrays()
+com.google.inject.internal.util.$Objects:
+    27:27:private $Objects()
+com.google.inject.internal.util.$Preconditions:
+    61:61:private $Preconditions()
+    224:229:public static varargs java.lang.Object checkNotNull(java.lang.Object,java.lang.String,java.lang.Object[])
+    242:245:public static java.lang.Iterable checkContentsNotNull(java.lang.Iterable)
+    261:264:public static java.lang.Iterable checkContentsNotNull(java.lang.Iterable,java.lang.Object)
+    287:291:public static varargs java.lang.Iterable checkContentsNotNull(java.lang.Iterable,java.lang.String,java.lang.Object[])
+    295:313:private static boolean containsOrIsNull(java.lang.Iterable)
+com.google.inject.internal.util.$Sets:
+    42:42:private $Sets()
+    115:115:public static java.util.Set newSetFromMap(java.util.Map)
+    190:194:static int hashCodeImpl(java.util.Set)
+com.google.inject.internal.util.$Sets$SetFromMap
+com.google.inject.internal.util.$StackTraceElements:
+    29:29:public $StackTraceElements()
+com.google.inject.internal.util.$Strings:
+    25:25:private $Strings()
+com.google.inject.matcher.AbstractMatcher:
+    29:29:public com.google.inject.matcher.Matcher and(com.google.inject.matcher.Matcher)
+    33:33:public com.google.inject.matcher.Matcher or(com.google.inject.matcher.Matcher)
+com.google.inject.matcher.AbstractMatcher$AndMatcher
+com.google.inject.matcher.AbstractMatcher$OrMatcher
+com.google.inject.matcher.Matcher:
+    public abstract com.google.inject.matcher.Matcher and(com.google.inject.matcher.Matcher)
+    public abstract com.google.inject.matcher.Matcher or(com.google.inject.matcher.Matcher)
+com.google.inject.matcher.Matchers:
+    34:34:private Matchers()
+    65:65:public static com.google.inject.matcher.Matcher not(com.google.inject.matcher.Matcher)
+    97:100:private static void checkForRuntimeRetention(java.lang.Class)
+    108:108:public static com.google.inject.matcher.Matcher annotatedWith(java.lang.Class)
+    146:146:public static com.google.inject.matcher.Matcher annotatedWith(java.lang.annotation.Annotation)
+    219:219:public static com.google.inject.matcher.Matcher only(java.lang.Object)
+    290:290:public static com.google.inject.matcher.Matcher inPackage(java.lang.Package)
+    333:333:public static com.google.inject.matcher.Matcher inSubpackage(java.lang.String)
+    370:370:public static com.google.inject.matcher.Matcher returns(com.google.inject.matcher.Matcher)
+    33:33:static synthetic void access$200(java.lang.Class)
+com.google.inject.matcher.Matchers$AnnotatedWith
+com.google.inject.matcher.Matchers$AnnotatedWithType
+com.google.inject.matcher.Matchers$Any:
+    private static final long serialVersionUID
+    55:55:public java.lang.Object readResolve()
+com.google.inject.matcher.Matchers$IdenticalTo:
+    private static final long serialVersionUID
+com.google.inject.matcher.Matchers$InPackage
+com.google.inject.matcher.Matchers$InSubpackage
+com.google.inject.matcher.Matchers$Not
+com.google.inject.matcher.Matchers$Only
+com.google.inject.matcher.Matchers$Returns
+com.google.inject.matcher.Matchers$SubclassesOf:
+    private static final long serialVersionUID
+com.google.inject.name.NamedImpl:
+    private static final long serialVersionUID
+com.google.inject.name.Names:
+    32:32:private Names()
+    46:52:public static void bindProperties(com.google.inject.Binder,java.util.Map)
+    60:68:public static void bindProperties(com.google.inject.Binder,java.util.Properties)
+com.google.inject.spi.BindingScopingVisitor
+com.google.inject.spi.ConstructorBinding:
+    public abstract java.util.Set getInjectableMembers()
+com.google.inject.spi.ConvertedConstantBinding:
+    public abstract java.lang.Object getValue()
+    public abstract com.google.inject.spi.TypeConverterBinding getTypeConverterBinding()
+    public abstract com.google.inject.Key getSourceKey()
+    public abstract java.util.Set getDependencies()
+com.google.inject.spi.DefaultBindingScopingVisitor
+com.google.inject.spi.DefaultElementVisitor:
+    79:79:public java.lang.Object visit(com.google.inject.spi.MembersInjectorLookup)
+    87:87:public java.lang.Object visit(com.google.inject.spi.DisableCircularProxiesOption)
+    91:91:public java.lang.Object visit(com.google.inject.spi.RequireExplicitBindingsOption)
+com.google.inject.spi.DisableCircularProxiesOption
+com.google.inject.spi.Element:
+    public abstract void applyTo(com.google.inject.Binder)
+com.google.inject.spi.ElementVisitor:
+    public abstract java.lang.Object visit(com.google.inject.spi.MembersInjectorLookup)
+    public abstract java.lang.Object visit(com.google.inject.spi.RequireExplicitBindingsOption)
+    public abstract java.lang.Object visit(com.google.inject.spi.DisableCircularProxiesOption)
+com.google.inject.spi.Elements:
+    85:85:public static varargs java.util.List getElements(com.google.inject.Stage,com.google.inject.Module[])
+    92:92:public static java.util.List getElements(java.lang.Iterable)
+    110:110:public static com.google.inject.Module getModule(java.lang.Iterable)
+    121:121:static com.google.inject.spi.BindingTargetVisitor getInstanceVisitor()
+com.google.inject.spi.Elements$2
+com.google.inject.spi.Elements$RecordingBinder:
+    195:198:public com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    202:202:public com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+    237:237:public com.google.inject.Stage currentStage()
+    258:258:public com.google.inject.binder.AnnotatedBindingBuilder bind(com.google.inject.TypeLiteral)
+    281:282:public void convertToTypes(com.google.inject.matcher.Matcher,com.google.inject.spi.TypeConverter)
+    290:295:public varargs com.google.inject.spi.Elements$RecordingBinder skipSources(java.lang.Class[])
+    305:306:public void disableCircularProxies()
+    309:310:public void requireExplicitBindings()
+    317:317:public com.google.inject.binder.AnnotatedElementBuilder expose(java.lang.Class)
+    321:321:public com.google.inject.binder.AnnotatedElementBuilder expose(com.google.inject.TypeLiteral)
+    124:124:public bridge synthetic com.google.inject.Binder skipSources(java.lang.Class[])
+    124:124:public bridge synthetic com.google.inject.PrivateBinder skipSources(java.lang.Class[])
+    124:124:public bridge synthetic com.google.inject.PrivateBinder withSource(java.lang.Object)
+com.google.inject.spi.Elements$RecordingBinder$1:
+    329:329:public void annotatedWith(java.lang.Class)
+    330:330:public void annotatedWith(java.lang.annotation.Annotation)
+com.google.inject.spi.ExposedBinding:
+    public abstract com.google.inject.spi.PrivateElements getPrivateElements()
+    public abstract void applyTo(com.google.inject.Binder)
+com.google.inject.spi.InjectionPoint:
+    207:207:public static com.google.inject.spi.InjectionPoint forConstructor(java.lang.reflect.Constructor)
+    220:226:public static com.google.inject.spi.InjectionPoint forConstructor(java.lang.reflect.Constructor,com.google.inject.TypeLiteral)
+    304:304:public static com.google.inject.spi.InjectionPoint forConstructorOf(java.lang.Class)
+com.google.inject.spi.InjectionRequest:
+    56:56:public com.google.inject.TypeLiteral getType()
+    80:81:public void applyTo(com.google.inject.Binder)
+com.google.inject.spi.MembersInjectorLookup
+com.google.inject.spi.MembersInjectorLookup$1
+com.google.inject.spi.Message:
+    private static final long serialVersionUID
+    115:116:public void applyTo(com.google.inject.Binder)
+    123:127:private java.lang.Object writeReplace()
+com.google.inject.spi.ProviderBinding:
+    public abstract com.google.inject.Key getProvidedKey()
+com.google.inject.spi.ProviderLookup:
+    68:69:public void applyTo(com.google.inject.Binder)
+    76:76:public com.google.inject.Provider getDelegate()
+com.google.inject.spi.RequireExplicitBindingsOption
+com.google.inject.spi.ScopeBinding:
+    63:64:public void applyTo(com.google.inject.Binder)
+com.google.inject.spi.StaticInjectionRequest:
+    68:69:public void applyTo(com.google.inject.Binder)
+com.google.inject.spi.TypeConverterBinding:
+    64:65:public void applyTo(com.google.inject.Binder)
+com.google.inject.spi.TypeEncounter:
+    public varargs abstract void addError(java.lang.String,java.lang.Object[])
+    public abstract void addError(java.lang.Throwable)
+    public abstract void addError(com.google.inject.spi.Message)
+    public abstract com.google.inject.Provider getProvider(com.google.inject.Key)
+    public abstract com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    public abstract com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+com.google.inject.spi.TypeListenerBinding:
+    65:66:public void applyTo(com.google.inject.Binder)
+com.google.inject.util.Modules:
+    52:52:private Modules()
+    75:75:public static varargs com.google.inject.util.Modules$OverriddenModuleBuilder override(com.google.inject.Module[])
+    95:95:public static com.google.inject.util.Modules$OverriddenModuleBuilder override(java.lang.Iterable)
+    102:102:public static varargs com.google.inject.Module combine(com.google.inject.Module[])
+    109:110:public static com.google.inject.Module combine(java.lang.Iterable)
+com.google.inject.util.Modules$2
+com.google.inject.util.Modules$ModuleWriter
+com.google.inject.util.Modules$OverriddenModuleBuilder
+com.google.inject.util.Modules$RealOverriddenModuleBuilder
+com.google.inject.util.Modules$RealOverriddenModuleBuilder$1
+com.google.inject.util.Modules$RealOverriddenModuleBuilder$1$1
+com.google.inject.util.Modules$RealOverriddenModuleBuilder$1$2
+com.google.inject.util.Modules$RealOverriddenModuleBuilder$1$3
+com.google.inject.util.Modules$RealOverriddenModuleBuilder$1$4
+com.google.inject.util.Node
+com.google.inject.util.Providers:
+    41:41:private Providers()
+    72:97:public static com.google.inject.Provider guicify(javax.inject.Provider)
+com.google.inject.util.Providers$2
+com.google.inject.util.Providers$3
+com.google.inject.util.Types:
+    40:40:private Types()
+    99:99:public static java.lang.reflect.ParameterizedType listOf(java.lang.reflect.Type)
+    109:109:public static java.lang.reflect.ParameterizedType setOf(java.lang.reflect.Type)
+    119:119:public static java.lang.reflect.ParameterizedType mapOf(java.lang.reflect.Type,java.lang.reflect.Type)
+com.google.zxing.Binarizer
+com.google.zxing.BinaryBitmap
+com.google.zxing.ChecksumException
+com.google.zxing.DecodeHintType
+com.google.zxing.Dimension
+com.google.zxing.FormatException
+com.google.zxing.InvertedLuminanceSource
+com.google.zxing.LuminanceSource
+com.google.zxing.MultiFormatReader
+com.google.zxing.MultiFormatWriter
+com.google.zxing.MultiFormatWriter$1
+com.google.zxing.NotFoundException
+com.google.zxing.PlanarYUVLuminanceSource
+com.google.zxing.RGBLuminanceSource
+com.google.zxing.Reader
+com.google.zxing.ReaderException
+com.google.zxing.Result
+com.google.zxing.ResultMetadataType
+com.google.zxing.ResultPoint
+com.google.zxing.ResultPointCallback
+com.google.zxing.Writer
+com.google.zxing.aztec.AztecDetectorResult
+com.google.zxing.aztec.AztecReader
+com.google.zxing.aztec.AztecWriter
+com.google.zxing.aztec.decoder.Decoder
+com.google.zxing.aztec.decoder.Decoder$1
+com.google.zxing.aztec.decoder.Decoder$Table
+com.google.zxing.aztec.detector.Detector
+com.google.zxing.aztec.detector.Detector$Point
+com.google.zxing.aztec.encoder.AztecCode
+com.google.zxing.aztec.encoder.Encoder
+com.google.zxing.client.result.AbstractDoCoMoResultParser
+com.google.zxing.client.result.AddressBookAUResultParser
+com.google.zxing.client.result.AddressBookDoCoMoResultParser
+com.google.zxing.client.result.AddressBookParsedResult
+com.google.zxing.client.result.BizcardResultParser
+com.google.zxing.client.result.BookmarkDoCoMoResultParser
+com.google.zxing.client.result.CalendarParsedResult
+com.google.zxing.client.result.EmailAddressParsedResult
+com.google.zxing.client.result.EmailAddressResultParser
+com.google.zxing.client.result.EmailDoCoMoResultParser
+com.google.zxing.client.result.ExpandedProductParsedResult
+com.google.zxing.client.result.ExpandedProductResultParser
+com.google.zxing.client.result.GeoParsedResult
+com.google.zxing.client.result.GeoResultParser
+com.google.zxing.client.result.ISBNParsedResult
+com.google.zxing.client.result.ISBNResultParser
+com.google.zxing.client.result.ParsedResult
+com.google.zxing.client.result.ParsedResultType
+com.google.zxing.client.result.ProductParsedResult
+com.google.zxing.client.result.ProductResultParser
+com.google.zxing.client.result.ResultParser
+com.google.zxing.client.result.SMSMMSResultParser
+com.google.zxing.client.result.SMSParsedResult
+com.google.zxing.client.result.SMSTOMMSTOResultParser
+com.google.zxing.client.result.SMTPResultParser
+com.google.zxing.client.result.TelParsedResult
+com.google.zxing.client.result.TelResultParser
+com.google.zxing.client.result.TextParsedResult
+com.google.zxing.client.result.URIParsedResult
+com.google.zxing.client.result.URIResultParser
+com.google.zxing.client.result.URLTOResultParser
+com.google.zxing.client.result.VCardResultParser
+com.google.zxing.client.result.VEventResultParser
+com.google.zxing.client.result.WifiParsedResult
+com.google.zxing.client.result.WifiResultParser
+com.google.zxing.common.BitArray:
+    34:37:public BitArray(int)
+    69:70:public void set(int)
+    78:79:public void flip(int)
+    88:102:public int getNextSet(int)
+    109:123:public int getNextUnset(int)
+    134:135:public void setBulk(int,int)
+    144:167:public void setRange(int,int)
+    173:177:public void clear()
+    189:217:public boolean isRange(int,int,boolean)
+    288:288:public int[] getBitArray()
+    295:303:public void reverse()
+com.google.zxing.common.BitMatrix:
+    43:44:public BitMatrix(int)
+    75:77:public void set(int,int)
+    86:88:public void flip(int,int)
+    94:98:public void clear()
+    137:144:public com.google.zxing.common.BitArray getRow(int,com.google.zxing.common.BitArray)
+    152:153:public void setRow(int,com.google.zxing.common.BitArray)
+    161:205:public int[] getEnclosingRectangle()
+    214:230:public int[] getTopLeftOnBit()
+    234:252:public int[] getBottomRightOnBit()
+    259:259:public int getWidth()
+    266:266:public int getHeight()
+com.google.zxing.common.BitSource
+com.google.zxing.common.CharacterSetECI:
+    103:106:public static com.google.zxing.common.CharacterSetECI getCharacterSetECIByValue(int)
+com.google.zxing.common.DecoderResult
+com.google.zxing.common.DefaultGridSampler
+com.google.zxing.common.DetectorResult
+com.google.zxing.common.GlobalHistogramBinarizer
+com.google.zxing.common.GridSampler
+com.google.zxing.common.HybridBinarizer
+com.google.zxing.common.PerspectiveTransform
+com.google.zxing.common.StringUtils
+com.google.zxing.common.detector.MathUtils
+com.google.zxing.common.detector.MonochromeRectangleDetector
+com.google.zxing.common.detector.WhiteRectangleDetector
+com.google.zxing.common.reedsolomon.GenericGF:
+    private static final int INITIALIZATION_THRESHOLD
+    107:109:com.google.zxing.common.reedsolomon.GenericGFPoly getOne()
+    184:184:public int getSize()
+com.google.zxing.common.reedsolomon.GenericGFPoly:
+    98:115:int evaluateAt(int)
+    171:182:com.google.zxing.common.reedsolomon.GenericGFPoly multiply(int)
+com.google.zxing.common.reedsolomon.ReedSolomonDecoder
+com.google.zxing.common.reedsolomon.ReedSolomonException
+com.google.zxing.datamatrix.DataMatrixReader
+com.google.zxing.datamatrix.DataMatrixWriter
+com.google.zxing.datamatrix.decoder.BitMatrixParser
+com.google.zxing.datamatrix.decoder.DataBlock
+com.google.zxing.datamatrix.decoder.DecodedBitStreamParser
+com.google.zxing.datamatrix.decoder.DecodedBitStreamParser$1
+com.google.zxing.datamatrix.decoder.DecodedBitStreamParser$Mode
+com.google.zxing.datamatrix.decoder.Decoder
+com.google.zxing.datamatrix.decoder.Version
+com.google.zxing.datamatrix.decoder.Version$1
+com.google.zxing.datamatrix.decoder.Version$ECB
+com.google.zxing.datamatrix.decoder.Version$ECBlocks
+com.google.zxing.datamatrix.detector.Detector
+com.google.zxing.datamatrix.detector.Detector$1
+com.google.zxing.datamatrix.detector.Detector$ResultPointsAndTransitions
+com.google.zxing.datamatrix.detector.Detector$ResultPointsAndTransitionsComparator
+com.google.zxing.datamatrix.encoder.ASCIIEncoder
+com.google.zxing.datamatrix.encoder.Base256Encoder
+com.google.zxing.datamatrix.encoder.C40Encoder
+com.google.zxing.datamatrix.encoder.DataMatrixSymbolInfo144
+com.google.zxing.datamatrix.encoder.DefaultPlacement
+com.google.zxing.datamatrix.encoder.EdifactEncoder
+com.google.zxing.datamatrix.encoder.Encoder
+com.google.zxing.datamatrix.encoder.EncoderContext
+com.google.zxing.datamatrix.encoder.ErrorCorrection
+com.google.zxing.datamatrix.encoder.HighLevelEncoder
+com.google.zxing.datamatrix.encoder.SymbolInfo
+com.google.zxing.datamatrix.encoder.SymbolShapeHint
+com.google.zxing.datamatrix.encoder.TextEncoder
+com.google.zxing.datamatrix.encoder.X12Encoder
+com.google.zxing.maxicode.MaxiCodeReader
+com.google.zxing.maxicode.decoder.BitMatrixParser
+com.google.zxing.maxicode.decoder.DecodedBitStreamParser
+com.google.zxing.maxicode.decoder.Decoder
+com.google.zxing.multi.ByQuadrantReader
+com.google.zxing.multi.GenericMultipleBarcodeReader
+com.google.zxing.multi.MultipleBarcodeReader
+com.google.zxing.multi.qrcode.QRCodeMultiReader
+com.google.zxing.multi.qrcode.detector.MultiDetector
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder$1
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder$ModuleSizeComparator
+com.google.zxing.oned.CodaBarReader
+com.google.zxing.oned.CodaBarWriter
+com.google.zxing.oned.Code128Reader
+com.google.zxing.oned.Code128Writer
+com.google.zxing.oned.Code39Reader
+com.google.zxing.oned.Code39Writer
+com.google.zxing.oned.Code93Reader
+com.google.zxing.oned.EAN13Reader
+com.google.zxing.oned.EAN13Writer
+com.google.zxing.oned.EAN8Reader
+com.google.zxing.oned.EAN8Writer
+com.google.zxing.oned.EANManufacturerOrgSupport
+com.google.zxing.oned.ITFReader
+com.google.zxing.oned.ITFWriter
+com.google.zxing.oned.MultiFormatOneDReader
+com.google.zxing.oned.MultiFormatUPCEANReader
+com.google.zxing.oned.OneDReader
+com.google.zxing.oned.OneDimensionalCodeWriter
+com.google.zxing.oned.UPCAReader
+com.google.zxing.oned.UPCAWriter
+com.google.zxing.oned.UPCEANExtension2Support
+com.google.zxing.oned.UPCEANExtension5Support
+com.google.zxing.oned.UPCEANExtensionSupport
+com.google.zxing.oned.UPCEANReader
+com.google.zxing.oned.UPCEANWriter
+com.google.zxing.oned.UPCEReader
+com.google.zxing.oned.rss.AbstractRSSReader
+com.google.zxing.oned.rss.DataCharacter
+com.google.zxing.oned.rss.FinderPattern
+com.google.zxing.oned.rss.Pair
+com.google.zxing.oned.rss.RSS14Reader
+com.google.zxing.oned.rss.RSSUtils
+com.google.zxing.oned.rss.expanded.BitArrayBuilder
+com.google.zxing.oned.rss.expanded.ExpandedPair
+com.google.zxing.oned.rss.expanded.ExpandedRow
+com.google.zxing.oned.rss.expanded.RSSExpandedReader
+com.google.zxing.oned.rss.expanded.decoders.AI013103decoder
+com.google.zxing.oned.rss.expanded.decoders.AI01320xDecoder
+com.google.zxing.oned.rss.expanded.decoders.AI01392xDecoder
+com.google.zxing.oned.rss.expanded.decoders.AI01393xDecoder
+com.google.zxing.oned.rss.expanded.decoders.AI013x0x1xDecoder
+com.google.zxing.oned.rss.expanded.decoders.AI013x0xDecoder
+com.google.zxing.oned.rss.expanded.decoders.AI01AndOtherAIs
+com.google.zxing.oned.rss.expanded.decoders.AI01decoder
+com.google.zxing.oned.rss.expanded.decoders.AI01weightDecoder
+com.google.zxing.oned.rss.expanded.decoders.AbstractExpandedDecoder
+com.google.zxing.oned.rss.expanded.decoders.AnyAIDecoder
+com.google.zxing.oned.rss.expanded.decoders.BlockParsedResult
+com.google.zxing.oned.rss.expanded.decoders.CurrentParsingState
+com.google.zxing.oned.rss.expanded.decoders.CurrentParsingState$State
+com.google.zxing.oned.rss.expanded.decoders.DecodedChar
+com.google.zxing.oned.rss.expanded.decoders.DecodedInformation
+com.google.zxing.oned.rss.expanded.decoders.DecodedNumeric
+com.google.zxing.oned.rss.expanded.decoders.DecodedObject
+com.google.zxing.oned.rss.expanded.decoders.FieldParser
+com.google.zxing.oned.rss.expanded.decoders.GeneralAppIdDecoder
+com.google.zxing.pdf417.PDF417Common
+com.google.zxing.pdf417.PDF417Reader
+com.google.zxing.pdf417.PDF417ResultMetadata
+com.google.zxing.pdf417.PDF417Writer
+com.google.zxing.pdf417.decoder.BarcodeMetadata
+com.google.zxing.pdf417.decoder.BarcodeValue
+com.google.zxing.pdf417.decoder.BoundingBox
+com.google.zxing.pdf417.decoder.Codeword
+com.google.zxing.pdf417.decoder.DecodedBitStreamParser
+com.google.zxing.pdf417.decoder.DecodedBitStreamParser$1
+com.google.zxing.pdf417.decoder.DecodedBitStreamParser$Mode
+com.google.zxing.pdf417.decoder.DetectionResult
+com.google.zxing.pdf417.decoder.DetectionResultColumn
+com.google.zxing.pdf417.decoder.DetectionResultRowIndicatorColumn
+com.google.zxing.pdf417.decoder.PDF417CodewordDecoder
+com.google.zxing.pdf417.decoder.PDF417ScanningDecoder
+com.google.zxing.pdf417.decoder.ec.ErrorCorrection
+com.google.zxing.pdf417.decoder.ec.ModulusGF
+com.google.zxing.pdf417.decoder.ec.ModulusPoly
+com.google.zxing.pdf417.detector.Detector
+com.google.zxing.pdf417.detector.PDF417DetectorResult
+com.google.zxing.pdf417.encoder.BarcodeMatrix
+com.google.zxing.pdf417.encoder.BarcodeRow
+com.google.zxing.pdf417.encoder.Compaction
+com.google.zxing.pdf417.encoder.Dimensions
+com.google.zxing.pdf417.encoder.PDF417
+com.google.zxing.pdf417.encoder.PDF417ErrorCorrection
+com.google.zxing.pdf417.encoder.PDF417HighLevelEncoder
+com.google.zxing.qrcode.QRCodeReader
+com.google.zxing.qrcode.QRCodeWriter:
+    private static final int QUIET_ZONE_SIZE
+com.google.zxing.qrcode.decoder.BitMatrixParser
+com.google.zxing.qrcode.decoder.DataBlock
+com.google.zxing.qrcode.decoder.DataMask
+com.google.zxing.qrcode.decoder.DataMask$1
+com.google.zxing.qrcode.decoder.DataMask$DataMask000
+com.google.zxing.qrcode.decoder.DataMask$DataMask001
+com.google.zxing.qrcode.decoder.DataMask$DataMask010
+com.google.zxing.qrcode.decoder.DataMask$DataMask011
+com.google.zxing.qrcode.decoder.DataMask$DataMask100
+com.google.zxing.qrcode.decoder.DataMask$DataMask101
+com.google.zxing.qrcode.decoder.DataMask$DataMask110
+com.google.zxing.qrcode.decoder.DataMask$DataMask111
+com.google.zxing.qrcode.decoder.DecodedBitStreamParser
+com.google.zxing.qrcode.decoder.Decoder
+com.google.zxing.qrcode.decoder.ErrorCorrectionLevel:
+    53:56:public static com.google.zxing.qrcode.decoder.ErrorCorrectionLevel forBits(int)
+com.google.zxing.qrcode.decoder.FormatInformation
+com.google.zxing.qrcode.decoder.Mode:
+    53:76:public static com.google.zxing.qrcode.decoder.Mode forBits(int)
+com.google.zxing.qrcode.decoder.Version:
+    70:70:public int[] getAlignmentPatternCenters()
+    93:99:public static com.google.zxing.qrcode.decoder.Version getProvisionalVersionForDimension(int)
+    111:133:static com.google.zxing.qrcode.decoder.Version decodeVersionInformation(int)
+    140:175:com.google.zxing.common.BitMatrix buildFunctionPattern()
+com.google.zxing.qrcode.detector.AlignmentPattern
+com.google.zxing.qrcode.detector.AlignmentPatternFinder
+com.google.zxing.qrcode.detector.Detector
+com.google.zxing.qrcode.detector.FinderPattern
+com.google.zxing.qrcode.detector.FinderPatternFinder
+com.google.zxing.qrcode.detector.FinderPatternFinder$1
+com.google.zxing.qrcode.detector.FinderPatternFinder$CenterComparator
+com.google.zxing.qrcode.detector.FinderPatternFinder$FurthestFromAverageComparator
+com.google.zxing.qrcode.detector.FinderPatternInfo
+com.google.zxing.qrcode.encoder.ByteMatrix:
+    57:58:public void set(int,int,byte)
+com.google.zxing.qrcode.encoder.Encoder:
+    static final java.lang.String DEFAULT_BYTE_MODE_ENCODING
+    52:53:private Encoder()
+    76:76:public static com.google.zxing.qrcode.encoder.QRCode encode(java.lang.String,com.google.zxing.qrcode.decoder.ErrorCorrectionLevel)
+    180:180:public static com.google.zxing.qrcode.decoder.Mode chooseMode(java.lang.String)
+com.google.zxing.qrcode.encoder.MaskUtil:
+    private static final int N1
+    private static final int N2
+    private static final int N3
+    private static final int N4
+    32:34:private MaskUtil()
+com.google.zxing.qrcode.encoder.MatrixUtil:
+    private static final int VERSION_INFO_POLY
+    private static final int TYPE_INFO_POLY
+    private static final int TYPE_INFO_MASK_PATTERN
+    30:32:private MatrixUtil()
+com.google.zxing.qrcode.encoder.QRCode:
+    public static final int NUM_MASK_PATTERNS
+    42:42:public com.google.zxing.qrcode.decoder.Mode getMode()
+    46:46:public com.google.zxing.qrcode.decoder.ErrorCorrectionLevel getECLevel()
+    50:50:public com.google.zxing.qrcode.decoder.Version getVersion()
+    54:54:public int getMaskPattern()
+com.jeremyfeinstein.slidingmenu.lib.BuildConfig
+com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder
+com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder$1
+com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder$2
+com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder$3
+com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder$4
+com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder$5
+com.jeremyfeinstein.slidingmenu.lib.CanvasTransformerBuilder$6
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove:
+    private static final java.lang.String TAG
+    private static final boolean DEBUG
+    private static final boolean USE_CACHE
+    private static final int MAX_SETTLE_DURATION
+    private static final int MIN_DISTANCE_FOR_FLING
+    private static final int INVALID_POINTER
+    283:286:public void addIgnoredView(android.view.View)
+    289:290:public void removeIgnoredView(android.view.View)
+    293:294:public void clearIgnoredViews()
+    351:357:public int getChildWidth(int)
+    362:362:public boolean isSlidingEnabled()
+    376:377:void smoothScrollTo(int,int)
+    900:917:protected boolean canScroll(android.view.View,boolean,int,int,int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove$SimpleOnPageChangeListener:
+    147:147:public void onPageScrollStateChanged(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind:
+    private static final java.lang.String TAG
+    private static final int MARGIN_THRESHOLD
+com.jeremyfeinstein.slidingmenu.lib.MenuInterface
+com.jeremyfeinstein.slidingmenu.lib.R:
+    9:468:public R()
+com.jeremyfeinstein.slidingmenu.lib.R$attr
+com.jeremyfeinstein.slidingmenu.lib.R$bool
+com.jeremyfeinstein.slidingmenu.lib.R$color
+com.jeremyfeinstein.slidingmenu.lib.R$dimen
+com.jeremyfeinstein.slidingmenu.lib.R$drawable
+com.jeremyfeinstein.slidingmenu.lib.R$id:
+    275:275:public R$id()
+com.jeremyfeinstein.slidingmenu.lib.R$integer
+com.jeremyfeinstein.slidingmenu.lib.R$layout:
+    336:336:public R$layout()
+com.jeremyfeinstein.slidingmenu.lib.R$string
+com.jeremyfeinstein.slidingmenu.lib.R$style
+com.jeremyfeinstein.slidingmenu.lib.R$styleable:
+    468:468:public R$styleable()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu:
+    private static final java.lang.String TAG
+    public static final int SLIDING_WINDOW
+    public static final int SLIDING_CONTENT
+    public static final int TOUCHMODE_MARGIN
+    public static final int TOUCHMODE_FULLSCREEN
+    public static final int TOUCHMODE_NONE
+    public static final int LEFT
+    public static final int RIGHT
+    public static final int LEFT_RIGHT
+    439:439:public boolean isSlidingEnabled()
+    484:485:public void showMenu()
+    501:502:public void showSecondaryMenu()
+    857:858:public void addIgnoredView(android.view.View)
+    866:867:public void removeIgnoredView(android.view.View)
+    873:874:public void clearIgnoredViews()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$1:
+    public static final int POSITION_OPEN
+    public static final int POSITION_CLOSE
+    public static final int POSITION_SECONDARY_OPEN
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivity:
+    83:84:public void setBehindContentView(int)
+    104:104:public com.jeremyfeinstein.slidingmenu.lib.SlidingMenu getSlidingMenu()
+    111:112:public void toggle()
+    118:119:public void showContent()
+    125:126:public void showMenu()
+    132:133:public void showSecondaryMenu()
+    139:140:public void setSlidingActionBarEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivityBase
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivityHelper:
+    96:99:public void setSlidingActionBarEnabled(boolean)
+    150:152:public void setContentView(android.view.View)
+    193:194:public void showMenu()
+    201:202:public void showSecondaryMenu()
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity:
+    118:119:public void showContent()
+    125:126:public void showMenu()
+    132:133:public void showSecondaryMenu()
+    139:140:public void setSlidingActionBarEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingListActivity:
+    87:88:public void setBehindContentView(int)
+    108:108:public com.jeremyfeinstein.slidingmenu.lib.SlidingMenu getSlidingMenu()
+    115:116:public void toggle()
+    122:123:public void showContent()
+    129:130:public void showMenu()
+    137:138:public void showSecondaryMenu()
+    144:145:public void setSlidingActionBarEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingPreferenceActivity:
+    83:84:public void setBehindContentView(int)
+    104:104:public com.jeremyfeinstein.slidingmenu.lib.SlidingMenu getSlidingMenu()
+    111:112:public void toggle()
+    118:119:public void showContent()
+    125:126:public void showMenu()
+    132:133:public void showSecondaryMenu()
+    139:140:public void setSlidingActionBarEnabled(boolean)
+com.kosherbacon.mmcfe_ng.AddServerActivity:
+    private static final int ZBAR_SCANNER_REQUEST
+    private static final int ZBAR_QR_SCANNER_REQUEST
+com.kosherbacon.mmcfe_ng.Base64Coder:
+    30:30:public static java.lang.String encodeString(java.lang.String)
+    39:39:public static java.lang.String encodeLines(byte[])
+    51:62:public static java.lang.String encodeLines(byte[],int,int,int,java.lang.String)
+    81:81:public static char[] encode(byte[],int)
+    120:120:public static java.lang.String decodeString(java.lang.String)
+    131:137:public static byte[] decodeLines(java.lang.String)
+    198:198:private Base64Coder()
+com.kosherbacon.mmcfe_ng.BuildConfig
+com.kosherbacon.mmcfe_ng.Preferences:
+    public static final java.lang.String preferenceName
+    10:10:public Preferences()
+com.kosherbacon.mmcfe_ng.PreferencesData:
+    static final long serialVersionUID
+com.kosherbacon.mmcfe_ng.R
+com.kosherbacon.mmcfe_ng.R$attr
+com.kosherbacon.mmcfe_ng.R$bool
+com.kosherbacon.mmcfe_ng.R$color
+com.kosherbacon.mmcfe_ng.R$dimen
+com.kosherbacon.mmcfe_ng.R$drawable
+com.kosherbacon.mmcfe_ng.R$id
+com.kosherbacon.mmcfe_ng.R$integer
+com.kosherbacon.mmcfe_ng.R$layout
+com.kosherbacon.mmcfe_ng.R$menu
+com.kosherbacon.mmcfe_ng.R$raw
+com.kosherbacon.mmcfe_ng.R$string
+com.kosherbacon.mmcfe_ng.R$style
+com.kosherbacon.mmcfe_ng.R$styleable
+com.kosherbacon.mmcfe_ng.ServerEntry:
+    static final long serialVersionUID
+    36:36:public java.util.ArrayList getWorkers()
+    40:41:public void setUrl(java.lang.String)
+    44:45:public void setApiKey(java.lang.String)
+    48:49:public void setUserID(java.lang.String)
+    52:54:public varargs void setWorkers(com.kosherbacon.mmcfe_ng.Worker[])
+    57:58:public void addWorker(com.kosherbacon.mmcfe_ng.Worker)
+com.kosherbacon.mmcfe_ng.Worker:
+    private java.lang.String name
+    private int hashrate
+    private boolean status
+    static final long serialVersionUID
+    14:18:public Worker(java.lang.String,int,boolean)
+    21:21:public java.lang.String getName()
+    25:25:public int getHashrate()
+    29:29:public boolean getStatus()
+    33:34:public void setName(java.lang.String)
+    37:38:public void setHashrate(int)
+    41:42:public void setStatus(boolean)
+com.nineoldandroids.animation.Animator
+com.nineoldandroids.animation.Animator$AnimatorListener
+com.nineoldandroids.animation.AnimatorInflater
+com.nineoldandroids.animation.AnimatorListenerAdapter
+com.nineoldandroids.animation.AnimatorSet
+com.nineoldandroids.animation.AnimatorSet$1
+com.nineoldandroids.animation.AnimatorSet$AnimatorSetListener
+com.nineoldandroids.animation.AnimatorSet$Builder
+com.nineoldandroids.animation.AnimatorSet$Dependency
+com.nineoldandroids.animation.AnimatorSet$DependencyListener
+com.nineoldandroids.animation.AnimatorSet$Node
+com.nineoldandroids.animation.ArgbEvaluator
+com.nineoldandroids.animation.FloatEvaluator
+com.nineoldandroids.animation.FloatKeyframeSet
+com.nineoldandroids.animation.IntEvaluator
+com.nineoldandroids.animation.IntKeyframeSet
+com.nineoldandroids.animation.Keyframe
+com.nineoldandroids.animation.Keyframe$FloatKeyframe
+com.nineoldandroids.animation.Keyframe$IntKeyframe
+com.nineoldandroids.animation.Keyframe$ObjectKeyframe
+com.nineoldandroids.animation.KeyframeSet
+com.nineoldandroids.animation.ObjectAnimator
+com.nineoldandroids.animation.PreHoneycombCompat
+com.nineoldandroids.animation.PreHoneycombCompat$1
+com.nineoldandroids.animation.PreHoneycombCompat$10
+com.nineoldandroids.animation.PreHoneycombCompat$11
+com.nineoldandroids.animation.PreHoneycombCompat$12
+com.nineoldandroids.animation.PreHoneycombCompat$13
+com.nineoldandroids.animation.PreHoneycombCompat$14
+com.nineoldandroids.animation.PreHoneycombCompat$2
+com.nineoldandroids.animation.PreHoneycombCompat$3
+com.nineoldandroids.animation.PreHoneycombCompat$4
+com.nineoldandroids.animation.PreHoneycombCompat$5
+com.nineoldandroids.animation.PreHoneycombCompat$6
+com.nineoldandroids.animation.PreHoneycombCompat$7
+com.nineoldandroids.animation.PreHoneycombCompat$8
+com.nineoldandroids.animation.PreHoneycombCompat$9
+com.nineoldandroids.animation.PropertyValuesHolder
+com.nineoldandroids.animation.PropertyValuesHolder$1
+com.nineoldandroids.animation.PropertyValuesHolder$FloatPropertyValuesHolder
+com.nineoldandroids.animation.PropertyValuesHolder$IntPropertyValuesHolder
+com.nineoldandroids.animation.TimeAnimator
+com.nineoldandroids.animation.TimeAnimator$TimeListener
+com.nineoldandroids.animation.TypeEvaluator
+com.nineoldandroids.animation.ValueAnimator
+com.nineoldandroids.animation.ValueAnimator$1
+com.nineoldandroids.animation.ValueAnimator$2
+com.nineoldandroids.animation.ValueAnimator$3
+com.nineoldandroids.animation.ValueAnimator$4
+com.nineoldandroids.animation.ValueAnimator$5
+com.nineoldandroids.animation.ValueAnimator$AnimationHandler
+com.nineoldandroids.animation.ValueAnimator$AnimatorUpdateListener
+com.nineoldandroids.util.FloatProperty
+com.nineoldandroids.util.IntProperty
+com.nineoldandroids.util.NoSuchPropertyException
+com.nineoldandroids.util.Property
+com.nineoldandroids.util.ReflectiveProperty
+com.nineoldandroids.view.ViewPropertyAnimator
+com.nineoldandroids.view.ViewPropertyAnimatorHC
+com.nineoldandroids.view.ViewPropertyAnimatorHC$1
+com.nineoldandroids.view.ViewPropertyAnimatorHC$AnimatorEventListener
+com.nineoldandroids.view.ViewPropertyAnimatorHC$NameValuesHolder
+com.nineoldandroids.view.ViewPropertyAnimatorHC$PropertyBundle
+com.nineoldandroids.view.ViewPropertyAnimatorICS
+com.nineoldandroids.view.ViewPropertyAnimatorICS$1
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$1
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$AnimatorEventListener
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$NameValuesHolder
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$PropertyBundle
+com.nineoldandroids.view.animation.AnimatorProxy
+com.throrinstudio.android.common.libs.validator.AbstractValidate:
+    public abstract void addValidator(com.throrinstudio.android.common.libs.validator.AbstractValidator)
+com.throrinstudio.android.common.libs.validator.ValidatorException:
+    private static final long serialVersionUID
+    7:8:public ValidatorException()
+    15:16:public ValidatorException(java.lang.String,java.lang.Throwable)
+    22:23:public ValidatorException(java.lang.String)
+    29:30:public ValidatorException(java.lang.Throwable)
+com.throrinstudio.android.common.libs.validator.validate.ConfirmValidate:
+    44:44:public void addValidator(com.throrinstudio.android.common.libs.validator.AbstractValidator)
+com.throrinstudio.android.common.libs.validator.validate.OrTwoRequiredValidate:
+    61:61:public void addValidator(com.throrinstudio.android.common.libs.validator.AbstractValidator)
+com.throrinstudio.android.common.libs.validator.validator.AlnumValidator:
+    28:30:public AlnumValidator(android.content.Context,int)
+com.throrinstudio.android.common.libs.validator.validator.EmailValidator:
+    23:25:public EmailValidator(android.content.Context,int)
+com.throrinstudio.android.common.libs.validator.validator.HexValidator
+com.throrinstudio.android.common.libs.validator.validator.NotEmptyValidator:
+    18:20:public NotEmptyValidator(android.content.Context,int)
+com.throrinstudio.android.common.libs.validator.validator.PhoneValidator
+com.throrinstudio.android.common.libs.validator.validator.RegExpValidator
+com.throrinstudio.android.common.libs.validator.validator.UrlValidator:
+    22:24:public UrlValidator(android.content.Context,int)
+com.throrinstudio.android.example.validator.BuildConfig
+com.throrinstudio.android.example.validator.R:
+    9:50:public R()
+com.throrinstudio.android.example.validator.R$attr
+com.throrinstudio.android.example.validator.R$drawable
+com.throrinstudio.android.example.validator.R$id:
+    18:18:public R$id()
+com.throrinstudio.android.example.validator.R$layout:
+    22:22:public R$layout()
+com.throrinstudio.android.example.validator.R$string:
+    26:26:public R$string()
+com.throrinstudio.android.example.validator.R$style
+com.throrinstudio.android.example.validator.R$styleable:
+    50:50:public R$styleable()
+junit.extensions.ActiveTestSuite
+junit.extensions.ActiveTestSuite$1
+junit.extensions.RepeatedTest
+junit.extensions.TestDecorator
+junit.extensions.TestSetup
+junit.extensions.TestSetup$1
+junit.extensions.package-info
+junit.framework.Assert
+junit.framework.AssertionFailedError
+junit.framework.ComparisonCompactor
+junit.framework.ComparisonFailure
+junit.framework.JUnit4TestAdapter
+junit.framework.JUnit4TestAdapterCache
+junit.framework.JUnit4TestAdapterCache$1
+junit.framework.JUnit4TestCaseFacade
+junit.framework.Protectable
+junit.framework.Test
+junit.framework.TestCase
+junit.framework.TestFailure
+junit.framework.TestListener
+junit.framework.TestResult
+junit.framework.TestResult$1
+junit.framework.TestSuite
+junit.framework.TestSuite$1
+junit.framework.package-info
+junit.runner.BaseTestRunner
+junit.runner.TestRunListener
+junit.runner.Version
+junit.runner.package-info
+junit.textui.ResultPrinter
+junit.textui.TestRunner
+junit.textui.package-info
+net.sourceforge.zbar.Config
+net.sourceforge.zbar.Image:
+    private java.lang.Object data
+    public Image(int,int)
+    public Image(java.lang.String)
+    Image(long)
+    public net.sourceforge.zbar.Image convert(java.lang.String)
+    private native long convert(long,java.lang.String)
+    public native java.lang.String getFormat()
+    public native int getSequence()
+    public native void setSequence(int)
+    public native int getWidth()
+    public native int getHeight()
+    public native int[] getSize()
+    public native void setSize(int[])
+    public native int[] getCrop()
+    public native void setCrop(int,int,int,int)
+    public native void setCrop(int[])
+    public native byte[] getData()
+    public native void setData(int[])
+    public net.sourceforge.zbar.SymbolSet getSymbols()
+    private native long getSymbols(long)
+net.sourceforge.zbar.ImageScanner:
+    public native void parseConfig(java.lang.String)
+    public native void enableCache(boolean)
+net.sourceforge.zbar.Modifier
+net.sourceforge.zbar.Orientation
+net.sourceforge.zbar.Symbol:
+    public static final int NONE
+    public static final int PARTIAL
+    public static final int EAN8
+    public static final int UPCE
+    public static final int ISBN10
+    public static final int UPCA
+    public static final int EAN13
+    public static final int ISBN13
+    public static final int I25
+    public static final int DATABAR
+    public static final int DATABAR_EXP
+    public static final int CODABAR
+    public static final int CODE39
+    public static final int PDF417
+    public static final int QRCODE
+    public static final int CODE93
+    public static final int CODE128
+    public native int getConfigMask()
+    public native int getModifierMask()
+    public native byte[] getDataBytes()
+    public native int getQuality()
+    public native int getCount()
+    public int[] getBounds()
+    private native int getLocationSize(long)
+    private native int getLocationX(long,int)
+    private native int getLocationY(long,int)
+    public int[] getLocationPoint(int)
+    public native int getOrientation()
+    public net.sourceforge.zbar.SymbolSet getComponents()
+    private native long getComponents(long)
+org.droidparts.AbstractApplication:
+    40:43:public final varargs void registerConverters(org.droidparts.inner.converter.Converter[])
+org.droidparts.AbstractDependencyProvider:
+    protected final android.content.Context ctx
+    27:29:public AbstractDependencyProvider(android.content.Context)
+org.droidparts.Injector:
+    46:48:public static void inject(android.app.Service)
+    56:58:public static void inject(android.app.Dialog,java.lang.Object)
+    61:64:public static void inject(android.view.View,java.lang.Object)
+    68:69:public static java.lang.Object getDependency(android.content.Context,java.lang.Class)
+    114:115:private Injector()
+org.droidparts.activity.sherlock.FragmentActivity:
+    private com.actionbarsherlock.view.MenuItem reloadMenuItem
+    private android.view.View loadingIndicator
+    private boolean isLoading
+    49:55:public final void setActionBarLoadingIndicatorVisible(boolean)
+    58:64:public final void setActionBarReloadMenuItem(com.actionbarsherlock.view.MenuItem)
+    67:69:public varargs void setFragmentVisible(boolean,android.support.v4.app.Fragment[])
+org.droidparts.activity.sherlock.SingleFragmentActivity:
+    30:31:public void onPreInject()
+    42:42:protected android.support.v4.app.Fragment getFragment()
+org.droidparts.activity.sherlock.TabbedFragmentActivity:
+    private static final java.lang.String CURR_TAB
+    79:80:public varargs void addTab(com.actionbarsherlock.app.ActionBar$Tab,android.support.v4.app.Fragment[])
+    84:90:public varargs void addTab(int,com.actionbarsherlock.app.ActionBar$Tab,android.support.v4.app.Fragment[])
+    93:95:public void setCustomAnimations(int,int)
+    112:128:public varargs void setFragmentVisible(boolean,android.support.v4.app.Fragment[])
+org.droidparts.activity.stock.FragmentActivity:
+    private android.view.MenuItem reloadMenuItem
+    private android.view.View loadingIndicator
+    private boolean isLoading
+    47:53:public final void setActionBarLoadingIndicatorVisible(boolean)
+    56:62:public final void setActionBarReloadMenuItem(android.view.MenuItem)
+    65:67:public varargs void setFragmentVisible(boolean,android.app.Fragment[])
+org.droidparts.activity.stock.SingleFragmentActivity:
+    30:31:public void onPreInject()
+    42:42:protected android.app.Fragment getFragment()
+org.droidparts.activity.stock.TabbedFragmentActivity:
+    private static final java.lang.String CURR_TAB
+    78:79:public varargs void addTab(android.app.ActionBar$Tab,android.app.Fragment[])
+    83:89:public varargs void addTab(int,android.app.ActionBar$Tab,android.app.Fragment[])
+    92:94:public void setCustomAnimations(int,int)
+    111:127:public varargs void setFragmentVisible(boolean,android.app.Fragment[])
+org.droidparts.activity.support.FragmentActivity:
+    40:42:public varargs void setFragmentVisible(boolean,android.support.v4.app.Fragment[])
+org.droidparts.activity.support.SingleFragmentActivity:
+    30:31:public void onPreInject()
+    42:42:protected android.support.v4.app.Fragment getFragment()
+org.droidparts.adapter.cursor.CursorAdapter
+org.droidparts.adapter.cursor.EntityCursorAdapter
+org.droidparts.adapter.holder.IconText2Holder
+org.droidparts.adapter.holder.Text1Holder
+org.droidparts.adapter.holder.Text2Holder
+org.droidparts.adapter.holder.ViewHolder
+org.droidparts.adapter.widget.ArrayAdapter
+org.droidparts.adapter.widget.SpinnerAdapter
+org.droidparts.adapter.widget.StringSpinnerAdapter
+org.droidparts.contract.AlterableContent
+org.droidparts.contract.Constants
+org.droidparts.contract.Constants$ManifestMeta
+org.droidparts.contract.DB
+org.droidparts.contract.DB$Column
+org.droidparts.contract.DB$Table
+org.droidparts.contract.HTTP
+org.droidparts.contract.HTTP$ContentType
+org.droidparts.contract.HTTP$Header
+org.droidparts.contract.HTTP$Method
+org.droidparts.contract.HTTP$ResponseCode
+org.droidparts.contract.Injectable
+org.droidparts.contract.SQL
+org.droidparts.contract.SQL$DDL
+org.droidparts.executor.concurrent.BackgroundExecutor
+org.droidparts.executor.concurrent.BackgroundPriorityThreadFactory
+org.droidparts.executor.concurrent.BackgroundPriorityThreadFactory$1
+org.droidparts.executor.concurrent.ConnectivityAwareExecutor
+org.droidparts.executor.concurrent.ConnectivityAwareExecutor$1
+org.droidparts.executor.service.IntentService:
+    private static final java.lang.String EXTRA_RESULT_RECEIVER
+    public static final java.lang.String EXTRA_ACTION
+    public static final java.lang.String EXTRA_EXCEPTION
+    private static java.lang.reflect.Field mServiceHandlerField
+    43:45:public static final android.content.Intent getIntent(android.content.Context,java.lang.Class,java.lang.String)
+    51:53:public static final android.content.Intent getIntent(android.content.Context,java.lang.Class,java.lang.String,android.os.ResultReceiver)
+    57:58:public IntentService(java.lang.String)
+    62:64:public void onCreate()
+    68:88:protected final void onHandleIntent(android.content.Intent)
+    91:95:public void removePendingIntents()
+    protected abstract android.os.Bundle onExecute(java.lang.String,android.os.Bundle)
+    103:114:private android.os.Handler getHandler()
+org.droidparts.executor.task.AsyncTask
+org.droidparts.executor.task.AsyncTaskResultListener
+org.droidparts.executor.task.SimpleAsyncTask
+org.droidparts.fragment.sherlock.DialogFragment
+org.droidparts.fragment.sherlock.Fragment
+org.droidparts.fragment.sherlock.ListFragment
+org.droidparts.fragment.stock.DialogFragment
+org.droidparts.fragment.stock.Fragment
+org.droidparts.fragment.stock.ListFragment
+org.droidparts.fragment.support.DialogFragment
+org.droidparts.fragment.support.Fragment
+org.droidparts.fragment.support.ListFragment
+org.droidparts.inner.AnnBuilder:
+    44:44:public AnnBuilder()
+    49:49:static org.droidparts.inner.ann.Ann getClassAnn(java.lang.Class,java.lang.Class)
+    55:55:static org.droidparts.inner.ann.Ann getFieldAnn(java.lang.Class,java.lang.Class,java.lang.reflect.Field)
+    60:67:private static org.droidparts.inner.ann.Ann pickAnn(java.lang.Class,org.droidparts.inner.ann.Ann[])
+    71:71:static org.droidparts.inner.ann.Ann[] getClassAnns(java.lang.Class)
+org.droidparts.inner.BitmapFactoryUtils
+org.droidparts.inner.ConverterRegistry
+org.droidparts.inner.FieldSpecRegistry:
+    private static final java.lang.String ID_SUFFIX
+    52:52:public FieldSpecRegistry()
+    80:91:public static java.lang.String getTableName(java.lang.Class)
+    97:117:public static org.droidparts.inner.ann.FieldSpec[] getTableColumnSpecs(java.lang.Class)
+    123:140:public static org.droidparts.inner.ann.FieldSpec[] getJsonKeySpecs(java.lang.Class)
+    155:164:private static java.lang.Class getComponentType(java.lang.reflect.Field)
+    170:174:private static java.lang.String getKeyName(org.droidparts.inner.ann.json.KeyAnn,java.lang.reflect.Field)
+    180:187:private static java.lang.String getColumnName(org.droidparts.inner.ann.sql.ColumnAnn,java.lang.reflect.Field)
+    194:211:private static void sanitizeSpecs(java.util.ArrayList)
+org.droidparts.inner.PersistUtils
+org.droidparts.inner.PersistUtils$1
+org.droidparts.inner.ReflectionUtils:
+    29:29:public ReflectionUtils()
+    34:39:public static java.lang.Object getFieldVal(java.lang.Object,java.lang.reflect.Field)
+    70:72:public static java.lang.Object newInstance(java.lang.Class)
+    78:79:public static java.lang.Enum newEnum(java.lang.Class,java.lang.String)
+    107:127:public static java.lang.Class getArrayComponentType(java.lang.Class)
+    132:145:public static java.lang.Class[] getFieldGenericArgs(java.lang.reflect.Field)
+    150:159:public static java.lang.Object[] varArgsHack(java.lang.Object[])
+org.droidparts.inner.TypeHelper:
+    34:34:public static boolean isByte(java.lang.Class)
+    38:38:public static boolean isShort(java.lang.Class)
+    46:46:public static boolean isLong(java.lang.Class)
+    50:50:public static boolean isFloat(java.lang.Class)
+    54:54:public static boolean isDouble(java.lang.Class)
+    62:62:public static boolean isCharacter(java.lang.Class)
+    72:72:public static boolean isEnum(java.lang.Class)
+    76:76:public static boolean isUUID(java.lang.Class)
+    80:80:public static boolean isUri(java.lang.Class)
+    84:84:public static boolean isDate(java.lang.Class)
+    90:90:public static boolean isByteArray(java.lang.Class)
+    98:98:public static boolean isCollection(java.lang.Class)
+    104:104:public static boolean isBitmap(java.lang.Class)
+    114:114:public static boolean isJSONObject(java.lang.Class)
+    118:118:public static boolean isJSONArray(java.lang.Class)
+    124:124:public static boolean isModel(java.lang.Class)
+    128:128:public static boolean isEntity(java.lang.Class)
+    131:132:protected TypeHelper()
+org.droidparts.inner.converter.ArrayCollectionConverter
+org.droidparts.inner.converter.BitmapConverter
+org.droidparts.inner.converter.BooleanConverter
+org.droidparts.inner.converter.ByteArrayConverter
+org.droidparts.inner.converter.ByteConverter
+org.droidparts.inner.converter.CharacterConverter
+org.droidparts.inner.converter.Converter
+org.droidparts.inner.converter.DateConverter
+org.droidparts.inner.converter.DoubleConverter
+org.droidparts.inner.converter.EntityConverter
+org.droidparts.inner.converter.EnumConverter
+org.droidparts.inner.converter.FloatConverter
+org.droidparts.inner.converter.IntegerConverter
+org.droidparts.inner.converter.JSONArrayConverter
+org.droidparts.inner.converter.JSONObjectConverter
+org.droidparts.inner.converter.LongConverter
+org.droidparts.inner.converter.ModelConverter
+org.droidparts.inner.converter.ShortConverter
+org.droidparts.inner.converter.StringConverter
+org.droidparts.inner.converter.UUIDConverter
+org.droidparts.inner.converter.UriConverter
+org.droidparts.inner.fragments.SecretFragmentsStockUtil:
+    24:24:public SecretFragmentsStockUtil()
+    28:38:public static varargs void fragmentActivitySetFragmentVisible(android.app.Activity,boolean,android.app.Fragment[])
+    50:58:public static void dialogFragmentShowDialogFragment(android.app.Activity,android.app.DialogFragment)
+org.droidparts.inner.fragments.SecretFragmentsSupportUtil:
+    24:24:public SecretFragmentsSupportUtil()
+    29:39:public static varargs void fragmentActivitySetFragmentVisible(android.support.v4.app.FragmentActivity,boolean,android.support.v4.app.Fragment[])
+    51:59:public static void dialogFragmentShowDialogFragment(android.support.v4.app.FragmentActivity,android.support.v4.app.DialogFragment)
+org.droidparts.inner.fragments.SecretFragmentsUtil:
+    protected static final int CONTENT_VIEW_ID
+    29:29:public SecretFragmentsUtil()
+    32:40:public static android.view.View fragmentActivityBuildLoadingIndicator(android.content.Context)
+    46:51:public static void singleFragmentActivitySetContentView(android.app.Activity)
+org.droidparts.inner.reader.BundleExtraReader:
+    21:21:public BundleExtraReader()
+org.droidparts.inner.reader.NativeFragmentsReader:
+    24:24:public NativeFragmentsReader()
+org.droidparts.inner.reader.ResourceReader:
+    26:26:public ResourceReader()
+org.droidparts.inner.reader.SupportFragmentsReader:
+    25:25:public SupportFragmentsReader()
+org.droidparts.inner.reader.SystemServiceReader:
+    26:26:public SystemServiceReader()
+org.droidparts.inner.reader.ValueReader:
+    31:31:public ValueReader()
+org.droidparts.inner.reader.ViewAndPreferenceReader:
+    26:26:public ViewAndPreferenceReader()
+org.droidparts.model.Entity
+org.droidparts.model.Model
+org.droidparts.net.http.CookieJar
+org.droidparts.net.http.HTTPException
+org.droidparts.net.http.HTTPResponse
+org.droidparts.net.http.RESTClient
+org.droidparts.net.http.RESTClient2
+org.droidparts.net.http.worker.HTTPInputStream
+org.droidparts.net.http.worker.HTTPWorker
+org.droidparts.net.http.worker.HttpClientWorker
+org.droidparts.net.http.worker.HttpURLConnectionWorker
+org.droidparts.net.http.worker.HttpURLConnectionWorker$FixedAuthenticator
+org.droidparts.net.image.AbstractImageReshaper
+org.droidparts.net.image.ImageFetchListener
+org.droidparts.net.image.ImageFetcher
+org.droidparts.net.image.ImageFetcher$1
+org.droidparts.net.image.ImageFetcher$2
+org.droidparts.net.image.ImageFetcher$FetchAndCacheRunnable
+org.droidparts.net.image.ImageFetcher$FetchAndCacheRunnable$1
+org.droidparts.net.image.ImageFetcher$ReadFromCacheRunnable
+org.droidparts.net.image.ImageFetcher$SetBitmapRunnable
+org.droidparts.net.image.ImageFetcher$Spec
+org.droidparts.net.image.ImageFetcher$SpecRunnable
+org.droidparts.net.image.ImageReshaper
+org.droidparts.net.image.cache.BitmapDiskCache
+org.droidparts.net.image.cache.BitmapMemoryCache
+org.droidparts.net.image.cache.BitmapMemoryCache$BitmapLruCache
+org.droidparts.net.image.cache.StockBitmapLruCache
+org.droidparts.net.image.cache.SupportBitmapLruCache
+org.droidparts.persist.AbstractPrefsManager
+org.droidparts.persist.json.JSONSerializer
+org.droidparts.persist.sql.AbstractDBOpenHelper:
+    private final android.content.Context ctx
+    37:39:public AbstractDBOpenHelper(android.content.Context,java.lang.String,int)
+    42:42:public android.content.Context getContext()
+    protected abstract void onCreateTables(android.database.sqlite.SQLiteDatabase)
+    48:48:protected void onOpenExtra(android.database.sqlite.SQLiteDatabase)
+    54:57:protected final varargs boolean createIndex(android.database.sqlite.SQLiteDatabase,java.lang.String,boolean,java.lang.String,java.lang.String[])
+    62:68:protected final varargs boolean createTables(android.database.sqlite.SQLiteDatabase,java.lang.Class[])
+    73:77:protected final varargs boolean addMissingColumns(android.database.sqlite.SQLiteDatabase,java.lang.Class[])
+    82:84:protected final varargs boolean dropTables(android.database.sqlite.SQLiteDatabase,java.lang.String[])
+    89:89:protected final boolean executeStatements(android.database.sqlite.SQLiteDatabase,java.util.ArrayList)
+    96:98:public final void onCreate(android.database.sqlite.SQLiteDatabase)
+    102:106:public final void onOpen(android.database.sqlite.SQLiteDatabase)
+org.droidparts.persist.sql.AbstractEntityManager
+org.droidparts.persist.sql.AbstractEntityManager$1
+org.droidparts.persist.sql.EntityManager
+org.droidparts.persist.sql.stmt.AbstractSelect
+org.droidparts.persist.sql.stmt.Delete
+org.droidparts.persist.sql.stmt.Is
+org.droidparts.persist.sql.stmt.MergeSelect
+org.droidparts.persist.sql.stmt.Select
+org.droidparts.persist.sql.stmt.Statement
+org.droidparts.persist.sql.stmt.Update
+org.droidparts.persist.sql.stmt.Where
+org.droidparts.persist.sql.stmt.Where$1
+org.droidparts.persist.sql.stmt.Where$WhereSpec
+org.droidparts.util.AppUtils
+org.droidparts.util.Arrays2
+org.droidparts.util.ConnectivityUtil
+org.droidparts.util.IOUtils
+org.droidparts.util.L:
+    public static final int VERBOSE
+    public static final int DEBUG
+    public static final int INFO
+    public static final int WARN
+    public static final int ERROR
+    public static final int ASSERT
+    private static final int DISABLE
+    private static final java.lang.String TAG
+    35:38:public static void v(java.lang.Object)
+    41:44:public static varargs void v(java.lang.String,java.lang.Object[])
+    53:56:public static varargs void d(java.lang.String,java.lang.Object[])
+    59:62:public static void i(java.lang.Object)
+    95:98:public static void wtf(java.lang.Object)
+    101:104:public static varargs void wtf(java.lang.String,java.lang.Object[])
+    107:110:public static void wtf()
+    229:230:protected L()
+org.droidparts.util.ResourceUtils:
+    31:31:public ResourceUtils()
+    36:43:public static void merge(org.json.JSONObject,org.json.JSONObject,boolean)
+    46:56:public static void dumpDBToCacheDir(android.content.Context,android.database.sqlite.SQLiteDatabase)
+    60:63:public static java.lang.String valueForKey(android.content.Context,int,int,java.lang.String)
+    67:67:public static int dpToPx(android.content.Context,int)
+    73:80:public static java.lang.String readRawResource(android.content.Context,int)
+org.droidparts.util.Strings:
+    20:20:public Strings()
+    32:32:public static java.lang.String join(java.util.Collection,java.lang.String,java.lang.String)
+    37:46:public static java.lang.String join(java.lang.Object[],java.lang.String,java.lang.String)
+org.droidparts.util.crypto.Crypter
+org.droidparts.util.crypto.HashCalc
+org.droidparts.util.intent.IntentFactory
+org.droidparts.util.intent.IntentFactory$PlayStore
+org.droidparts.util.intent.IntentHelper
+org.droidparts.util.ui.AbstractDialogFactory
+org.droidparts.util.ui.BitmapUtils
+org.droidparts.util.ui.EditTextValidator
+org.droidparts.util.ui.EditTextValidator$ValidationException
+org.droidparts.util.ui.ImagePicker
+org.droidparts.util.ui.ImagePicker$Listener
+org.droidparts.util.ui.ImagePicker$Localization
+org.droidparts.util.ui.ImagePicker$ProfilePictureAdapter
+org.droidparts.util.ui.ListViewSynchronizer
+org.droidparts.util.ui.ViewUtils
+org.droidparts.util.ui.ViewUtils$1
+org.droidparts.widget.MultiSelectListPreference:
+    private static final java.lang.String SEP
+    54:61:public java.lang.CharSequence[] getCheckedEntries()
+    75:76:public MultiSelectListPreference(android.content.Context)
+org.droidparts.widget.VerticalScrollView:
+    29:30:public VerticalScrollView(android.content.Context)
+org.hamcrest.BaseDescription
+org.hamcrest.BaseMatcher
+org.hamcrest.Condition
+org.hamcrest.Condition$1
+org.hamcrest.Condition$Matched
+org.hamcrest.Condition$NotMatched
+org.hamcrest.Condition$Step
+org.hamcrest.CoreMatchers
+org.hamcrest.CustomMatcher
+org.hamcrest.CustomTypeSafeMatcher
+org.hamcrest.Description
+org.hamcrest.Description$NullDescription
+org.hamcrest.DiagnosingMatcher
+org.hamcrest.Factory
+org.hamcrest.FeatureMatcher
+org.hamcrest.Matcher
+org.hamcrest.MatcherAssert
+org.hamcrest.SelfDescribing
+org.hamcrest.StringDescription
+org.hamcrest.TypeSafeDiagnosingMatcher
+org.hamcrest.TypeSafeMatcher
+org.hamcrest.core.AllOf
+org.hamcrest.core.AnyOf
+org.hamcrest.core.CombinableMatcher
+org.hamcrest.core.CombinableMatcher$CombinableBothMatcher
+org.hamcrest.core.CombinableMatcher$CombinableEitherMatcher
+org.hamcrest.core.DescribedAs
+org.hamcrest.core.Every
+org.hamcrest.core.Is
+org.hamcrest.core.IsAnything
+org.hamcrest.core.IsCollectionContaining
+org.hamcrest.core.IsEqual
+org.hamcrest.core.IsInstanceOf
+org.hamcrest.core.IsNot
+org.hamcrest.core.IsNull
+org.hamcrest.core.IsSame
+org.hamcrest.core.ShortcutCombination
+org.hamcrest.core.StringContains
+org.hamcrest.core.StringEndsWith
+org.hamcrest.core.StringStartsWith
+org.hamcrest.core.SubstringMatcher
+org.hamcrest.internal.ArrayIterator
+org.hamcrest.internal.ReflectiveTypeFinder
+org.hamcrest.internal.SelfDescribingValue
+org.hamcrest.internal.SelfDescribingValueIterator
+org.junit.After
+org.junit.AfterClass
+org.junit.Assert
+org.junit.Assume
+org.junit.Before
+org.junit.BeforeClass
+org.junit.ClassRule
+org.junit.ComparisonFailure
+org.junit.ComparisonFailure$ComparisonCompactor
+org.junit.FixMethodOrder
+org.junit.Ignore
+org.junit.Rule
+org.junit.Test
+org.junit.Test$None
+org.junit.experimental.ParallelComputer
+org.junit.experimental.ParallelComputer$1
+org.junit.experimental.categories.Categories
+org.junit.experimental.categories.Categories$CategoryFilter
+org.junit.experimental.categories.Categories$ExcludeCategory
+org.junit.experimental.categories.Categories$IncludeCategory
+org.junit.experimental.categories.Category
+org.junit.experimental.max.CouldNotReadCoreException
+org.junit.experimental.max.MaxCore
+org.junit.experimental.max.MaxCore$1
+org.junit.experimental.max.MaxCore$1$1
+org.junit.experimental.max.MaxHistory
+org.junit.experimental.max.MaxHistory$1
+org.junit.experimental.max.MaxHistory$RememberingListener
+org.junit.experimental.max.MaxHistory$TestComparator
+org.junit.experimental.results.FailureList
+org.junit.experimental.results.PrintableResult
+org.junit.experimental.results.ResultMatchers
+org.junit.experimental.results.ResultMatchers$1
+org.junit.experimental.results.ResultMatchers$2
+org.junit.experimental.results.ResultMatchers$3
+org.junit.experimental.runners.Enclosed
+org.junit.experimental.theories.DataPoint
+org.junit.experimental.theories.DataPoints
+org.junit.experimental.theories.ParameterSignature
+org.junit.experimental.theories.ParameterSupplier
+org.junit.experimental.theories.ParametersSuppliedBy
+org.junit.experimental.theories.PotentialAssignment
+org.junit.experimental.theories.PotentialAssignment$1
+org.junit.experimental.theories.PotentialAssignment$CouldNotGenerateValueException
+org.junit.experimental.theories.Theories
+org.junit.experimental.theories.Theories$TheoryAnchor
+org.junit.experimental.theories.Theories$TheoryAnchor$1
+org.junit.experimental.theories.Theories$TheoryAnchor$1$1
+org.junit.experimental.theories.Theories$TheoryAnchor$2
+org.junit.experimental.theories.Theory
+org.junit.experimental.theories.internal.AllMembersSupplier
+org.junit.experimental.theories.internal.AllMembersSupplier$1
+org.junit.experimental.theories.internal.AllMembersSupplier$MethodParameterValue
+org.junit.experimental.theories.internal.Assignments
+org.junit.experimental.theories.internal.ParameterizedAssertionError
+org.junit.experimental.theories.suppliers.TestedOn
+org.junit.experimental.theories.suppliers.TestedOnSupplier
+org.junit.internal.ArrayComparisonFailure
+org.junit.internal.AssumptionViolatedException
+org.junit.internal.ComparisonCriteria
+org.junit.internal.ExactComparisonCriteria
+org.junit.internal.InexactComparisonCriteria
+org.junit.internal.JUnitSystem
+org.junit.internal.MethodSorter
+org.junit.internal.MethodSorter$1
+org.junit.internal.MethodSorter$2
+org.junit.internal.RealSystem
+org.junit.internal.TextListener
+org.junit.internal.builders.AllDefaultPossibilitiesBuilder
+org.junit.internal.builders.AnnotatedBuilder
+org.junit.internal.builders.IgnoredBuilder
+org.junit.internal.builders.IgnoredClassRunner
+org.junit.internal.builders.JUnit3Builder
+org.junit.internal.builders.JUnit4Builder
+org.junit.internal.builders.NullBuilder
+org.junit.internal.builders.SuiteMethodBuilder
+org.junit.internal.matchers.StacktracePrintingMatcher
+org.junit.internal.matchers.ThrowableCauseMatcher
+org.junit.internal.matchers.ThrowableMessageMatcher
+org.junit.internal.matchers.TypeSafeMatcher
+org.junit.internal.requests.ClassRequest
+org.junit.internal.requests.FilterRequest
+org.junit.internal.requests.SortingRequest
+org.junit.internal.requests.package-info
+org.junit.internal.runners.ClassRoadie
+org.junit.internal.runners.ErrorReportingRunner
+org.junit.internal.runners.FailedBefore
+org.junit.internal.runners.InitializationError
+org.junit.internal.runners.JUnit38ClassRunner
+org.junit.internal.runners.JUnit38ClassRunner$1
+org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener
+org.junit.internal.runners.JUnit4ClassRunner
+org.junit.internal.runners.JUnit4ClassRunner$1
+org.junit.internal.runners.JUnit4ClassRunner$2
+org.junit.internal.runners.MethodRoadie
+org.junit.internal.runners.MethodRoadie$1
+org.junit.internal.runners.MethodRoadie$1$1
+org.junit.internal.runners.MethodRoadie$2
+org.junit.internal.runners.MethodValidator
+org.junit.internal.runners.SuiteMethod
+org.junit.internal.runners.TestClass
+org.junit.internal.runners.TestMethod
+org.junit.internal.runners.model.EachTestNotifier
+org.junit.internal.runners.model.MultipleFailureException
+org.junit.internal.runners.model.ReflectiveCallable
+org.junit.internal.runners.package-info
+org.junit.internal.runners.rules.RuleFieldValidator
+org.junit.internal.runners.statements.ExpectException
+org.junit.internal.runners.statements.Fail
+org.junit.internal.runners.statements.FailOnTimeout
+org.junit.internal.runners.statements.FailOnTimeout$StatementThread
+org.junit.internal.runners.statements.InvokeMethod
+org.junit.internal.runners.statements.RunAfters
+org.junit.internal.runners.statements.RunBefores
+org.junit.matchers.JUnitMatchers
+org.junit.matchers.package-info
+org.junit.package-info
+org.junit.rules.ErrorCollector
+org.junit.rules.ErrorCollector$1
+org.junit.rules.ExpectedException
+org.junit.rules.ExpectedException$ExpectedExceptionStatement
+org.junit.rules.ExpectedExceptionMatcherBuilder
+org.junit.rules.ExternalResource
+org.junit.rules.ExternalResource$1
+org.junit.rules.MethodRule
+org.junit.rules.RuleChain
+org.junit.rules.RunRules
+org.junit.rules.TemporaryFolder
+org.junit.rules.TestName
+org.junit.rules.TestRule
+org.junit.rules.TestWatcher
+org.junit.rules.TestWatcher$1
+org.junit.rules.TestWatchman
+org.junit.rules.TestWatchman$1
+org.junit.rules.Timeout
+org.junit.rules.Verifier
+org.junit.rules.Verifier$1
+org.junit.runner.Computer
+org.junit.runner.Computer$1
+org.junit.runner.Describable
+org.junit.runner.Description
+org.junit.runner.JUnitCore
+org.junit.runner.Request
+org.junit.runner.Request$1
+org.junit.runner.Result
+org.junit.runner.Result$1
+org.junit.runner.Result$Listener
+org.junit.runner.RunWith
+org.junit.runner.Runner
+org.junit.runner.manipulation.Filter
+org.junit.runner.manipulation.Filter$1
+org.junit.runner.manipulation.Filter$2
+org.junit.runner.manipulation.Filter$3
+org.junit.runner.manipulation.Filterable
+org.junit.runner.manipulation.NoTestsRemainException
+org.junit.runner.manipulation.Sortable
+org.junit.runner.manipulation.Sorter
+org.junit.runner.manipulation.Sorter$1
+org.junit.runner.manipulation.package-info
+org.junit.runner.notification.Failure
+org.junit.runner.notification.RunListener
+org.junit.runner.notification.RunNotifier
+org.junit.runner.notification.RunNotifier$1
+org.junit.runner.notification.RunNotifier$2
+org.junit.runner.notification.RunNotifier$3
+org.junit.runner.notification.RunNotifier$4
+org.junit.runner.notification.RunNotifier$5
+org.junit.runner.notification.RunNotifier$6
+org.junit.runner.notification.RunNotifier$7
+org.junit.runner.notification.RunNotifier$SafeNotifier
+org.junit.runner.notification.StoppedByUserException
+org.junit.runner.notification.package-info
+org.junit.runner.package-info
+org.junit.runners.AllTests
+org.junit.runners.BlockJUnit4ClassRunner
+org.junit.runners.BlockJUnit4ClassRunner$1
+org.junit.runners.JUnit4
+org.junit.runners.MethodSorters
+org.junit.runners.Parameterized
+org.junit.runners.Parameterized$Parameter
+org.junit.runners.Parameterized$Parameters
+org.junit.runners.Parameterized$TestClassRunnerForParameters
+org.junit.runners.ParentRunner
+org.junit.runners.ParentRunner$1
+org.junit.runners.ParentRunner$2
+org.junit.runners.ParentRunner$3
+org.junit.runners.ParentRunner$4
+org.junit.runners.Suite
+org.junit.runners.Suite$SuiteClasses
+org.junit.runners.model.FrameworkField
+org.junit.runners.model.FrameworkMember
+org.junit.runners.model.FrameworkMethod
+org.junit.runners.model.FrameworkMethod$1
+org.junit.runners.model.InitializationError
+org.junit.runners.model.MultipleFailureException
+org.junit.runners.model.NoGenericTypeParametersValidator
+org.junit.runners.model.RunnerBuilder
+org.junit.runners.model.RunnerScheduler
+org.junit.runners.model.Statement
+org.junit.runners.model.TestClass
+org.junit.runners.package-info
+roboguice.RoboGuice:
+    138:139:public static java.lang.Object injectMembers(android.content.Context,java.lang.Object)
+roboguice.RoboGuice$util
+roboguice.activity.RoboAccountAuthenticatorActivity:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.RoboActivity:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.RoboActivityGroup:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.RoboExpandableListActivity:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.RoboFragmentActivity:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.RoboLauncherActivity:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.RoboListActivity:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.RoboMapActivity
+roboguice.activity.RoboPreferenceActivity:
+    roboguice.inject.ContentViewListener ignored
+    65:67:public void setPreferenceScreen(android.preference.PreferenceScreen)
+roboguice.activity.RoboTabActivity:
+    roboguice.inject.ContentViewListener ignored
+roboguice.activity.event.OnActivityResultEvent:
+    24:24:public int getRequestCode()
+    28:28:public int getResultCode()
+    32:32:public android.content.Intent getData()
+roboguice.activity.event.OnConfigurationChangedEvent:
+    22:22:public android.content.res.Configuration getOldConfig()
+    26:26:public android.content.res.Configuration getNewConfig()
+roboguice.activity.event.OnCreateEvent:
+    22:22:public android.os.Bundle getSavedInstanceState()
+roboguice.adapter.IterableAdapter
+roboguice.content.RoboAsyncTaskLoader
+roboguice.content.RoboContentProvider:
+    17:18:public boolean onCreate()
+roboguice.content.RoboLoader
+roboguice.event.EventManager:
+    protected android.content.Context context
+    60:61:public void registerObserver(java.lang.Object,java.lang.reflect.Method,java.lang.Class)
+    72:86:public void unregisterObserver(java.lang.Class,roboguice.event.EventListener)
+    96:113:public void unregisterObserver(java.lang.Object,java.lang.Class)
+roboguice.event.eventListener.AsynchronousEventListenerDecorator:
+    21:24:public AsynchronousEventListenerDecorator(android.os.Handler,roboguice.event.EventListener)
+roboguice.event.eventListener.ObserverMethodListener:
+    41:41:public java.lang.Object getInstance()
+roboguice.event.eventListener.RunnableAsyncTaskAdaptor:
+    16:18:public RunnableAsyncTaskAdaptor(java.lang.Runnable)
+roboguice.event.eventListener.javaassist.RuntimeSupport:
+    24:24:public RuntimeSupport()
+roboguice.event.javaassist.RuntimeSupport
+roboguice.fragment.RoboDialogFragment
+roboguice.fragment.RoboFragment
+roboguice.fragment.RoboListFragment
+roboguice.inject.ContentView
+roboguice.inject.ContentViewListener
+roboguice.inject.ContextScopedProvider
+roboguice.inject.ContextScopedRoboInjector:
+    32:39:public com.google.inject.Injector createChildInjector(java.lang.Iterable)
+    44:51:public varargs com.google.inject.Injector createChildInjector(com.google.inject.Module[])
+    56:63:public java.util.List findBindingsByType(com.google.inject.TypeLiteral)
+    68:75:public java.util.Map getAllBindings()
+    80:87:public com.google.inject.Binding getBinding(com.google.inject.Key)
+    92:99:public com.google.inject.Binding getBinding(java.lang.Class)
+    116:123:public com.google.inject.Binding getExistingBinding(com.google.inject.Key)
+    152:159:public com.google.inject.MembersInjector getMembersInjector(java.lang.Class)
+    164:171:public com.google.inject.MembersInjector getMembersInjector(com.google.inject.TypeLiteral)
+    176:183:public com.google.inject.Injector getParent()
+    188:195:public com.google.inject.Provider getProvider(com.google.inject.Key)
+    200:207:public com.google.inject.Provider getProvider(java.lang.Class)
+    212:219:public java.util.Map getScopeBindings()
+    224:231:public java.util.Set getTypeConverterBindings()
+    267:275:public void injectViewMembers(android.support.v4.app.Fragment)
+roboguice.inject.InjectPreference:
+    public abstract java.lang.String value()
+roboguice.inject.NullProvider
+roboguice.inject.Nullable:
+    9:10:private Nullable()
+roboguice.inject.PreferenceListener:
+    67:69:public void injectPreferenceViews()
+roboguice.inject.PreferenceListener$PreferenceMembersInjector:
+    94:118:public void reallyInjectMembers()
+roboguice.inject.ResourceFactory
+roboguice.inject.ResourcesProvider:
+    35:37:public ResourcesProvider(android.app.Application)
+roboguice.inject.RoboApplicationProvider
+roboguice.inject.RoboInjector:
+    public abstract void injectViewMembers(android.support.v4.app.Fragment)
+roboguice.inject.SharedPreferencesName
+roboguice.inject.SharedPreferencesProvider:
+    protected static final java.lang.String ROBOGUICE_1_DEFAULT_FILENAME
+    45:47:public SharedPreferencesProvider(roboguice.inject.SharedPreferencesProvider$PreferencesNameHolder)
+    49:51:public SharedPreferencesProvider(java.lang.String)
+roboguice.inject.SharedPreferencesProvider$PreferencesNameHolder
+roboguice.inject.StringResourceFactory
+roboguice.receiver.RoboBroadcastReceiver:
+    24:28:public final void onReceive(android.content.Context,android.content.Intent)
+    40:40:protected void handleReceive(android.content.Context,android.content.Intent)
+roboguice.service.RoboIntentService:
+    protected roboguice.event.EventManager eventManager
+    44:45:public RoboIntentService(java.lang.String)
+    50:55:public void onCreate()
+    59:61:public void onStart(android.content.Intent,int)
+    67:76:public void onDestroy()
+    80:83:public void onConfigurationChanged(android.content.res.Configuration)
+roboguice.service.RoboService:
+    protected roboguice.event.EventManager eventManager
+    55:60:public void onCreate()
+    64:66:public void onStart(android.content.Intent,int)
+    71:80:public void onDestroy()
+    84:87:public void onConfigurationChanged(android.content.res.Configuration)
+roboguice.service.event.OnConfigurationChangedEvent
+roboguice.service.event.OnCreateEvent
+roboguice.service.event.OnDestroyEvent
+roboguice.service.event.OnStartEvent
+roboguice.util.Ln:
+    75:75:public static int v(java.lang.Throwable)
+    79:84:public static varargs int v(java.lang.Object,java.lang.Object[])
+    88:93:public static varargs int v(java.lang.Throwable,java.lang.Object,java.lang.Object[])
+    97:97:public static int d(java.lang.Throwable)
+    101:106:public static varargs int d(java.lang.Object,java.lang.Object[])
+    110:115:public static varargs int d(java.lang.Throwable,java.lang.Object,java.lang.Object[])
+    119:119:public static int i(java.lang.Throwable)
+    123:128:public static varargs int i(java.lang.Object,java.lang.Object[])
+    132:137:public static varargs int i(java.lang.Throwable,java.lang.Object,java.lang.Object[])
+    141:141:public static int w(java.lang.Throwable)
+    145:150:public static varargs int w(java.lang.Object,java.lang.Object[])
+    154:159:public static varargs int w(java.lang.Throwable,java.lang.Object,java.lang.Object[])
+    167:172:public static varargs int e(java.lang.Object,java.lang.Object[])
+    176:181:public static varargs int e(java.lang.Throwable,java.lang.Object,java.lang.Object[])
+    185:185:public static boolean isDebugEnabled()
+    189:189:public static boolean isVerboseEnabled()
+    193:193:public static roboguice.util.Ln$Config getConfig()
+    235:250:public static java.lang.String logLevelToString(int)
+roboguice.util.Ln$BaseConfig:
+    211:223:public Ln$BaseConfig(android.app.Application)
+    226:226:public int getLoggingLevel()
+    230:231:public void setLoggingLevel(int)
+roboguice.util.Ln$Config
+roboguice.util.RoboAsyncTask
+roboguice.util.SafeAsyncTask:
+    public static final int DEFAULT_POOL_SIZE
+    41:43:public SafeAsyncTask()
+    56:58:public SafeAsyncTask(java.util.concurrent.Executor)
+    60:63:public SafeAsyncTask(android.os.Handler,java.util.concurrent.Executor)
+    72:73:public roboguice.util.SafeAsyncTask executor(java.util.concurrent.Executor)
+    77:77:public java.util.concurrent.Executor executor()
+    81:82:public roboguice.util.SafeAsyncTask handler(android.os.Handler)
+    86:86:public android.os.Handler handler()
+    99:102:public boolean cancel(boolean)
+roboguice.util.Strings:
+    private static final int DEFAULT_BUFFER_SIZE
+    8:8:public Strings()
+    22:32:public static java.lang.String joinAnd(java.lang.String,java.lang.String,java.util.Collection)
+    36:36:public static varargs java.lang.String joinAnd(java.lang.String,java.lang.String,java.lang.Object[])
+    102:102:public static boolean isEmpty(java.lang.Object)
+    114:131:public static java.lang.String md5(java.lang.String)
+    136:137:public static java.lang.String capitalize(java.lang.String)
+    145:145:public static boolean equalsIgnoreCase(java.lang.Object,java.lang.Object)
+    149:158:public static java.lang.String[] chunk(java.lang.String,int)
+    162:165:public static java.lang.String namedFormat(java.lang.String,java.util.Map)
+    169:176:public static varargs java.lang.String namedFormat(java.lang.String,java.lang.Object[])

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PHP-MPOS Android</string>
+    <string name="left_and_right">Left and Right</string>
+    <string name="main_title">Monitor</string>
+    <string name="worker">Worker Name:</string>
+    <string name="hashrate">Hashrate:</string>
+    <string name="github_label">SlidingMenu on GitHub</string>
+    <string name="github">GitHub</string>
+    <string name="new_server_label">Add New Mining Server</string>
+    <string name="new_server">New</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh_server_list_label">Refresh All Servers</string>
+    <string name="discard">Cancel</string>
+    <string name="done">Done</string>
+    <string name="websiteUrl">Website URL:</string>
+    <string name="apiString">API Key:</string>
+    <string name="userID">User ID:</string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>
