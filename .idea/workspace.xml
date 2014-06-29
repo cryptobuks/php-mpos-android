@@ -162,11 +162,21 @@
       <file leaf-file-name="ServerAdapter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/kosherbacon/mmcfe_ng/ServerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5064516" vertical-offset="451" max-vertical-offset="1564">
-              <caret line="68" column="73" selection-start-line="68" selection-start-column="73" selection-end-line="68" selection-end-column="73" />
+            <state vertical-scroll-proportion="0.6854839" vertical-offset="0" max-vertical-offset="1768">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding>
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+                <element signature="e#987#988#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+                <element signature="e#1075#1076#0" expanded="true" />
                 <element signature="e#2392#2757#0" expanded="true" />
                 <element signature="e#2742#2743#0" expanded="true" />
+                <element signature="e#3155#4795#0" expanded="true" />
+                <element signature="e#3330#4443#0" expanded="true" />
+                <element signature="e#4420#4421#0" expanded="true" />
+                <element signature="e#4780#4781#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -402,8 +412,8 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/ListViewAnimations/library" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -1396,11 +1406,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kosherbacon/mmcfe_ng/ServerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5064516" vertical-offset="451" max-vertical-offset="1564">
-          <caret line="68" column="73" selection-start-line="68" selection-start-column="73" selection-end-line="68" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.6854839" vertical-offset="0" max-vertical-offset="1768">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding>
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
             <element signature="e#2392#2757#0" expanded="true" />
             <element signature="e#2742#2743#0" expanded="true" />
+            <element signature="e#3155#4795#0" expanded="true" />
+            <element signature="e#3330#4443#0" expanded="true" />
+            <element signature="e#4420#4421#0" expanded="true" />
+            <element signature="e#4780#4781#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1457,12 +1477,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ZBarScannerLibrary</last-edited>
+          <last-edited>mmcfe-ng</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

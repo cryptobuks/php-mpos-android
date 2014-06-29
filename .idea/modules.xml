@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/libs/Android-Validator-master/Android-Validator-master.iml" filepath="$PROJECT_DIR$/libs/Android-Validator-master/Android-Validator-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/IconicDroid-master/library/IconicDroid.iml" filepath="$PROJECT_DIR$/libs/IconicDroid-master/library/IconicDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/ListViewAnimations/library/ListViewAnimations.iml" filepath="$PROJECT_DIR$/libs/ListViewAnimations/library/ListViewAnimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/SlidingMenu-master/library/SlidingMenu-master.iml" filepath="$PROJECT_DIR$/libs/SlidingMenu-master/library/SlidingMenu-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/ZBarScanner-master/ZBarScannerLibrary/ZBarScannerLibrary.iml" filepath="$PROJECT_DIR$/libs/ZBarScanner-master/ZBarScannerLibrary/ZBarScannerLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock/actionbarsherlock.iml" />

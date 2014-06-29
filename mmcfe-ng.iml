@@ -29,6 +29,7 @@
     <orderEntry type="module" module-name="zxing-core" />
     <orderEntry type="module" module-name="zxing-core" />
     <orderEntry type="library" name="android-support-v4" level="project" />
+    <orderEntry type="module" module-name="ListViewAnimations" />
   </component>
 </module>
 

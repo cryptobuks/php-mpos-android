@@ -1,3 +1,6 @@
 [submodule "libs/ListViewAnimations"]
 	path = libs/ListViewAnimations
 	url = https://github.com/nhaarman/ListViewAnimations.git
+[submodule "libs/cardslib"]
+	path = libs/cardslib
+	url = https://github.com/gabrielemariotti/cardslib.git
