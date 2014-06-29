@@ -1,0 +1,3 @@
+[submodule "libs/ListViewAnimations"]
+	path = libs/ListViewAnimations
+	url = https://github.com/nhaarman/ListViewAnimations.git

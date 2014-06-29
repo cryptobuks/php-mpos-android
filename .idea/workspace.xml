@@ -104,10 +104,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AddServerActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AddServerActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kosherbacon/mmcfe_ng/AddServerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7726524" vertical-offset="1586" max-vertical-offset="3944">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2402" max-vertical-offset="3944">
               <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
               <folding>
                 <element signature="e#1764#1765#0" expanded="true" />
@@ -159,12 +159,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerAdapter.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ServerAdapter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/kosherbacon/mmcfe_ng/ServerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="2057">
-              <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
-              <folding />
+            <state vertical-scroll-proportion="0.5064516" vertical-offset="451" max-vertical-offset="1564">
+              <caret line="68" column="73" selection-start-line="68" selection-start-column="73" selection-end-line="68" selection-end-column="73" />
+              <folding>
+                <element signature="e#2392#2757#0" expanded="true" />
+                <element signature="e#2742#2743#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1362,14 +1365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kosherbacon/mmcfe_ng/ServerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1513">
-          <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock/src/com/actionbarsherlock/internal/app/ActionBarWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="6715">
@@ -1388,13 +1383,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kosherbacon/mmcfe_ng/AddServerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7726524" vertical-offset="1586" max-vertical-offset="3944">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2402" max-vertical-offset="3944">
           <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
           <folding>
             <element signature="e#1764#1765#0" expanded="true" />
             <element signature="e#1813#1814#0" expanded="true" />
             <element signature="e#1979#1980#0" expanded="true" />
             <element signature="e#2023#2024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kosherbacon/mmcfe_ng/ServerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5064516" vertical-offset="451" max-vertical-offset="1564">
+          <caret line="68" column="73" selection-start-line="68" selection-start-column="73" selection-end-line="68" selection-end-column="73" />
+          <folding>
+            <element signature="e#2392#2757#0" expanded="true" />
+            <element signature="e#2742#2743#0" expanded="true" />
           </folding>
         </state>
       </provider>
