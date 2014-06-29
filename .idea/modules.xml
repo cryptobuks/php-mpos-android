@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/libs/SlidingMenu-master/library/SlidingMenu-master.iml" filepath="$PROJECT_DIR$/libs/SlidingMenu-master/library/SlidingMenu-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/ZBarScanner-master/ZBarScannerLibrary/ZBarScannerLibrary.iml" filepath="$PROJECT_DIR$/libs/ZBarScanner-master/ZBarScannerLibrary/ZBarScannerLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/libs/ABS-4.4.0/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/cardslib/library/src/main/cardslib.iml" filepath="$PROJECT_DIR$/libs/cardslib/library/src/main/cardslib.iml" />
       <module fileurl="file://$PROJECT_DIR$/mmcfe-ng.iml" filepath="$PROJECT_DIR$/mmcfe-ng.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/zxing-2.2/core/zxing-core.iml" filepath="$PROJECT_DIR$/libs/zxing-2.2/core/zxing-core.iml" />
     </modules>
